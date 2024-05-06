@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- MAPLES2 -->
+<ms2>
+	<level>
+		<beginCondition allowDeadState="1" />
+		<BasicProperty level="1" buffType="2" durationTick="2000" deadKeepEffect="1" logoutClearEffect="1" leaveFieldClearEffect="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<FinalStatusProperty>
+			<Stat finalhprate="400.0" />
+		</FinalStatusProperty>
+		<UIProperty icon="./Data/Resource/Image/Item/icon/20000989.png" iconOnOff="0" />
+	</level>
+</ms2>

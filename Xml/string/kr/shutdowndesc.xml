@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="shutdown_adventure_level_exp" name="모험 레벨 경험치 획득 정리" />
+	<key id="shutdown_ai_open_portal" name="ai 에서 CreateRoom 하는 기능 셧다운" />
+	<key id="shutdown_banurls" name="사용 금지 Web Url체크" />
+	<key id="shutdown_blackmarket_use" name="블랙마켓 사용 제한" />
+	<key id="shutdown_blueprint" name="블루프린트 셧다운" />
+	<key id="shutdown_blueprint_market" name="블루프린트마켓 셧다운" />
+	<key id="shutdown_bonusgame_bluemarble" name="부루마블 긴급정지" />
+	<key id="shutdown_cashshop_use" name="캐시샵 이용 금지" />
+	<key id="shutdown_charinfo_req" name="캐릭터 정보 조회 제한(DB부하발생시)" />
+	<key id="shutdown_chat_channel" name="채널 채팅 금지" />
+	<key id="shutdown_chat_emoticon" name="이모티콘 셧다운" />
+	<key id="shutdown_chat_group" name="그룹 채팅 금지" />
+	<key id="shutdown_chat_guild" name="길드 채팅 금지" />
+	<key id="shutdown_chat_guild_megaphone" name="길드 확성기 채팅 금지" />
+	<key id="shutdown_chat_super" name="슈퍼 월드 채팅 금지" />
+	<key id="shutdown_chat_world" name="월드 채팅 금지" />
+	<key id="shutdown_choose_mentor" name="멘티 입장에서 멘토 선택 셧다운" />
+	<key id="shutdown_club" name="동아리 긴급정지" />
+	<key id="shutdown_coditab" name="코디탭 셧다운 (코디탭 이용권 사용불가, 코디탭에 장착 불가)" />
+	<key id="shutdown_container_use" name="창고 이용 금지" />
+	<key id="shutdown_creating_soulbinder" name="소울바인더 캐릭터 생성 제한" />
+	<key id="shutdown_creating_striker" name="스트라이커 캐릭터 생성 제한" />
+	<key id="shutdown_daily_mission_reward" name="길라잡이 레벨업 가이드 보상 제한" />
+	<key id="shutdown_dungeon_match_cooldown" name="동지애 버프 긴급 정지" />
+	<key id="shutdown_dungeon_nutanuta" name="누타만 던전 셧다운" />
+	<key id="shutdown_dungeon_reward_mentee" name="던전 복귀 유저 보상 셧다운 " />
+	<key id="shutdown_dungeon_reward_mentee_party" name="던전 복귀 유저와 파티를 할때 셧다운 " />
+	<key id="shutdown_dungeon_reward_mentor" name="던전 멘토 보상 셧다운" />
+	<key id="shutdown_enchant" name="인챈트 셧다운" />
+	<key id="shutdown_fame_completion_ticket" name="일일 임무 즉시 완료권 셧다운" />
+	<key id="shutdown_fame_contents_mission_attack" name="평판 컨텐츠 스카이 포트리스 출격하기" />
+	<key id="shutdown_fame_contents_sky_fortress" name="평판 컨텐츠 스카이 포트리스로 이동" />
+	<key id="shutdown_field_war" name="군단전 셧다운" />
+	<key id="shutdown_find_dungeon_helper" name="던전 도움 요청하기 셧다운" />
+	<key id="shutdown_fishing" name="낚시 사용 제한" />
+	<key id="shutdown_fittingdoll_use" name="마네킹 이용 금지" />
+	<key id="shutdown_gachaItem_break" name="가차 아이템 분해 셧다운" />
+	<key id="shutdown_gem_meta" name="메타배지 셧다운" />
+	<key id="shutdown_gift_meratmarket" name="메럿마켓에서 선물하기 기능 정지 (블루,레드)" />
+	<key id="shutdown_gift_ugc" name="메럿마켓에서 선물하기 기능 정지 (디자이너스샵)" />
+	<key id="shutdown_guild_attend" name="길드 출석 셧다운" />
+	<key id="shutdown_guild_championship" name="길드 챔피언쉽 신청 셧다운" />
+	<key id="shutdown_guild_donate" name="길드 기부 셧다운" />
+	<key id="shutdown_guild_event" name="길드 이벤트 사용 셧다운" />
+	<key id="shutdown_guild_house" name="길드 하우스 셧다운" />
+	<key id="shutdown_guild_join_search" name="길드찾기 사용 제한" />
+	<key id="shutdown_guild_skill" name="길드 스킬 사용 셧다운" />
+	<key id="shutdown_guild_storage" name="길드 창고 셧다운" />
+	<key id="shutdown_guild_upgrade_npc" name="길드 NPC 업그레이드 셧다운" />
+	<key id="shutdown_guild_upgrade_skill" name="길드 스킬 업그레이드 셧다운" />
+	<key id="shutdown_happy_birthday" name="생일 축하 컨텐츠" />
+	<key id="shutdown_homemade_other" name="남의 집에서 축산/재배 긴급 정지" />
+	<key id="shutdown_hongbao_item" name="홍빠오 아이템 셧다운" />
+	<key id="shutdown_housing_downsize" name="집 축소 기능 셧다운" />
+	<key id="shutdown_ingame_ranking" name="인게임 랭킹 긴급정지" />
+	<key id="shutdown_instance_server_role" name="인스턴스 서버 역활별 분리 셧다운" />
+	<key id="shutdown_invite_mentee" name="멘토 입장에서 멘티 초대 셧다운" />
+	<key id="shutdown_item_break" name="아이템 분해 셧다운" />
+	<key id="shutdown_item_drop" name="아이템 드랍 금지" />
+	<key id="shutdown_item_enchant_transform" name="인챈트 이전 시스템" />
+	<key id="shutdown_item_exchange_scroll_use" name="조각, 주문서 합성 긴급정지" />
+	<key id="shutdown_item_extraction" name="아이템 외형 추출 셧다운" />
+	<key id="shutdown_item_merge" name="아이템 초월 긴급 정지" />
+	<key id="shutdown_item_multi_use" name="상자 여러 개 열기 셧다운" />
+	<key id="shutdown_item_repacking" name="아이템 재포장 기능 셧다운" />
+	<key id="shutdown_item_socket_gemstone_puton_off" name="보석 장착/장착해제 셧다운" />
+	<key id="shutdown_item_socket_gemstone_upgrade" name="보석 업글 셧다운" />
+	<key id="shutdown_item_socket_system" name="아이템 소켓/보석 시스템 셧다운 (shutdown_item_socket_xx 보다 상위 개념." />
+	<key id="shutdown_item_socket_transfer" name="소켓 이전 시스템" />
+	<key id="shutdown_item_socket_unlock" name="소켓 확장 셧다운 (소켓 주문서는 영향없음 x)" />
+	<key id="shutdown_lapenshard" name="라펜샤드 셧다운" />
+	<key id="shutdown_live_broadcast" name="중국 생방송 셧다운" />
+	<key id="shutdown_mail_receive" name="메일 아이템 수령 금지" />
+	<key id="shutdown_mail_send" name="메일 발송 금지" />
+	<key id="shutdown_mentee_attend" name="던전 복귀 유저 출석 셧다운 " />
+	<key id="shutdown_mentor_mentee" name="멘토/멘티 대상 캐릭터 지정 셧다운 #40169" />
+	<key id="shutdown_mentoring_ui" name="멘토링 UI 셧다운" />
+	<key id="shutdown_merat_use" name="메럿 사용 금지" />
+	<key id="shutdown_meratmarket_use" name="메럿마켓 사용 제한" />
+	<key id="shutdown_mesomarket_use" name="메소마켓 사용 제한" />
+	<key id="shutdown_multi_riding" name="멀티 라이딩 사용" />
+	<key id="shutdown_music_score_ugc" name="디자이너스 마켓 악보 등록" />
+	<key id="shutdown_musicinstrument" name="악기연주 사용 제한" />
+	<key id="shutdown_npc_min_hp" name="Npc AI 에서 사용되는 몬스터 최소 HP 설정 셧다운" />
+	<key id="shutdown_npcshop_sell" name="상점 판매 금지" />
+	<key id="shutdown_party_match" name="파티찾기 사용 제한" />
+	<key id="shutdown_party_vote_kick_user" name="파티 추방 투표 셧다운" />
+	<key id="shutdown_payback_buy_count" name="페이백 구매 관련 처리 (모험레벨 카운트, 메럿 카운트) 막는 셧다운" />
+	<key id="shutdown_payback_monthly_reward" name="페이백 월별 보상 처리 셧다운" />
+	<key id="shutdown_pet_autoitempick" name="펫 자동아이템획득 제한" />
+	<key id="shutdown_pet_autoitemuse" name="펫 자동아이템사용 제한" />
+	<key id="shutdown_pet_compose" name="펫 합성 긴급정지" />
+	<key id="shutdown_pet_evolution" name="펫 진화 긴급정지" />
+	<key id="shutdown_pet_name_change" name="펫 이름변경 제한" />
+	<key id="shutdown_pet_remake_option" name="펫 옵션 재굴림 셧다운" />
+	<key id="shutdown_pet_summon" name="펫 소환 제한" />
+	<key id="shutdown_pet_trap" name="펫 포획 긴급정지" />
+	<key id="shutdown_pvp_ranking_dual_mode" name="투기장 사용 제한" />
+	<key id="shutdown_recall_scroll" name="길드/파티 소환 스크롤 사용 금지" />
+	<key id="shutdown_skin_socket" name="스킨 소켓/보석 긴급정지 (shutdown_item_socket_system가 더 큰 개념)&#x0A;스킨 소켓 확장 정지, 스킨 분해 정지, (스킨에 장착하는)보석 업글, 분해, 소켓 장착 정지" />
+	<key id="shutdown_soulbinder_rank_arena" name="소울바인더 투기장 신청제한" />
+	<key id="shutdown_steam_cashshop_use" name="스팀 월렛 셧다운" />
+	<key id="shutdown_striker_rank_arena" name="스트라이커 투기장 입장 제한" />
+	<key id="shutdown_time_run_event" name="시간과의 달리기 이벤트" />
+	<key id="shutdown_trade" name="거래 금지" />
+	<key id="shutdown_ugc_event" name="집에서 만드는 이벤트 ( 방송용 OX 퀴즈 이벤트 )" />
+	<key id="shutdown_united_dungeon_reward_reset" name="던전 통합 보상 리셋 셧다운" />
+	<key id="shutdown_unlimited_enchant" name="한계돌파 셧다운" />
+	<key id="shutdown_user_massive" name="유저가 여는 매시브 이벤트" />
+	<key id="shutdown_world_champion_reward" name="월드레이드 보상 수령 셧다운" />
+	<key id="shutdown_world_champion_spawn" name="월드레이드 스폰 셧다운" />
+</ms2>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="0" name="Strength" desc="str" />
+	<key id="1" name="Dexterity" desc="dex" />
+	<key id="2" name="Intelligence" desc="int" />
+	<key id="3" name="Luck" desc="luk" />
+	<key id="4" name="Health" desc="hp" />
+	<key id="5" name="Health Regen" desc="hp_rgp" />
+	<key id="6" name="Health Regen Interval" desc="hp_inv" />
+	<key id="7" name="Spirit" desc="sp" />
+	<key id="8" name="Spirit Regen" desc="sp_rgp" />
+	<key id="9" name="Spirit Regen Interval" desc="sp_inv" />
+	<key id="10" name="Stamina" desc="ep" />
+	<key id="11" name="Stamina Regen" desc="ep_rgp" />
+	<key id="12" name="Stamina Regen Interval" desc="ep_inv" />
+	<key id="13" name="Attack Speed" desc="asp" />
+	<key id="14" name="Movement Speed" desc="msp" />
+	<key id="15" name="Accuracy" desc="atp" />
+	<key id="16" name="Evasion" desc="evp" />
+	<key id="17" name="Critical Rate" desc="cap" />
+	<key id="18" name="Critical Damage" desc="cad" />
+	<key id="19" name="Critical Evasion" desc="car" />
+	<key id="20" name="Defense" desc="ndd" />
+	<key id="21" name="Perfect Guard" desc="abp" />
+	<key id="22" name="Jump Power" desc="jmp" />
+	<key id="23" name="Physical Attack" desc="pap" />
+	<key id="24" name="Magic Attack" desc="map" />
+	<key id="25" name="Physical Resistance" desc="par" />
+	<key id="26" name="Magic Resistance" desc="mar" />
+	<key id="27" name="Min Attack" desc="wapmin" />
+	<key id="28" name="Max Attack" desc="wapmax" />
+	<key id="29" name="Bonus Attack" desc="bap" />
+	<key id="30" name="Pet Bonus Attack" desc="bap_pet" />
+	<key id="31" name="Piercing" desc="pen" />
+	<key id="32" name="Mount Movement Speed" desc="rmsp" />
+	<key id="1000" name="Strength {0}" desc="str" />
+	<key id="1001" name="Dexterity {0}" desc="dex" />
+	<key id="1002" name="Intelligence {0}" desc="int" />
+	<key id="1003" name="Luck {0}" desc="luk" />
+	<key id="1004" name="Health {0}" desc="hp" />
+	<key id="1005" name="Health Regen {0}" desc="hp_rgp" />
+	<key id="1006" name="Health Regen Interval {0}" desc="hp_inv" />
+	<key id="1007" name="Spirit {0}" desc="sp" />
+	<key id="1008" name="Spirit Regen {0}" desc="sp_rgp" />
+	<key id="1009" name="Spirit Regen Interval {0}" desc="sp_inv" />
+	<key id="1010" name="Stamina {0}" desc="ep" />
+	<key id="1011" name="Stamina Regen {0}" desc="ep_rgp" />
+	<key id="1012" name="Stamina Regen Interval {0}" desc="ep_inv" />
+	<key id="1013" name="Attack Speed {0}%" desc="asp" />
+	<key id="1014" name="Movement Speed {0}%" desc="msp" />
+	<key id="1015" name="Accuracy {0}" desc="atp" />
+	<key id="1016" name="Evasion {0}" desc="evp" />
+	<key id="1017" name="Critical Rate {0}" desc="cap" />
+	<key id="1018" name="Critical Damage {0}" desc="cad" />
+	<key id="1019" name="Critical Evasion {0}" desc="car" />
+	<key id="1020" name="Defense {0}" desc="ndd" />
+	<key id="1021" name="Perfect Guard {0:0.1f}%" desc="abp" />
+	<key id="1022" name="Jump Power {0}" desc="jmp" />
+	<key id="1023" name="Physical Attack {0}" desc="pap" />
+	<key id="1024" name="Magic Attack {0}" desc="map" />
+	<key id="1025" name="Physical Resistance {0}" desc="par" />
+	<key id="1026" name="Magic Resistance {0}" desc="mar" />
+	<key id="1027" name="Min Attack {0}" desc="wapmin" />
+	<key id="1028" name="Max Attack {0}" desc="wapmax" />
+	<key id="1029" name="Bonus Attack {0}" desc="bap" />
+	<key id="1030" name="Pet Bonus Attack {0}" desc="bap_pet" />
+	<key id="1031" name="Piercing {0:0.1f}%" desc="pen" />
+	<key id="1032" name="Mount Movement Speed {0}%" desc="rmsp" />
+</ms2>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- MAPLES2 -->
+<ms2>
+	<level>
+		<beginCondition applyPvPZoneType="2" />
+		<BasicProperty level="1" keepCondition="99" doNotClearEffectFromEnterPVPZone="1" />
+		<StatusProperty>
+			<Stat nddrate="3.0" maprate="3.0" paprate="3.0" />
+		</StatusProperty>
+		<UIProperty iconOnOff="0" />
+	</level>
+</ms2>

@@ -1,0 +1,58 @@
+<ms2>
+	<npc id="81000001">
+		<environment feature="Develop" npcAttackGroup="1" npcDefenseGroup="2" minimap="0" hpBar="1" defenceMaterial="5" hitImmune="1" abnormalImmune="1" rankIcon="c" carePathToEnemy="1" raceString="spirit" gender="2" portrait="./Data/Resource/Image/Portrait/Mob/02020078_M_voodoodoll_P.png" damagedColorScale="6" damagedVibrateDuration="0.8" damagedVibrateAmp="1" regenEffect="BG/Common/Eff_Test_Regen.xml" lookAtMyPCWhenTalking="0">
+			<model kfm="02020078_M_voodoodoll" scale="1.5" shadowScale="230" rotationSpeed="720" />
+			<stat hp="37" asp="100" msp="100" atp="80" evp="109" cap="38" cad="500" car="50" ndd="9" pap="15" map="15" />
+			<distance avoid="90" sight="400" sightHeightUP="300" sightHeightDown="0" />
+			<skill ids="50000129" probs="100" />
+			<collision shape="box" width="130" height="200" depth="130" />
+			<capsule radius="80" height="200" />
+			<dead time="5" defaultaction="Dead_A" upaction="Dead_B" />
+			<push back="1" up="1" knockback="1" />
+			<normal action="Idle_A" prob="10000" />
+			<dropiteminfo dropHeight="100" dropDistanceBase="100" dropDistanceRandom="50" globalDropBoxId="1,10006" />
+		</environment>
+	</npc>
+	<npc id="81000002">
+		<environment feature="Develop" npcAttackGroup="1" npcDefenseGroup="2" minimapIconName="boss" defenceMaterial="5" hitImmune="1" abnormalImmune="1" class="3" rankIcon="b" carePathToEnemy="1" raceString="spirit" gender="2" portrait="./Data/Resource/Image/Portrait/Mob/02020078_M_voodoodoll_P.png" damagedColorScale="6" damagedVibrateDuration="0.8" damagedVibrateAmp="1" regenEffect="BG/Common/Eff_Test_Regen.xml" lookAtMyPCWhenTalking="0">
+			<model kfm="02020078_M_voodoodoll" scale="2" shadowScale="230" rotationSpeed="720" />
+			<stat hp="843" asp="100" msp="100" atp="81" evp="109" cap="38" cad="500" car="50" ndd="9" pap="23" map="23" />
+			<distance avoid="90" sight="400" sightHeightUP="300" sightHeightDown="0" />
+			<skill ids="50000129" probs="100" />
+			<collision shape="box" width="130" height="200" depth="130" />
+			<capsule radius="80" height="200" />
+			<dead time="5" defaultaction="Dead_A" upaction="Dead_B" />
+			<push back="1" up="1" knockback="1" />
+			<normal action="Idle_A" prob="10000" />
+			<dropiteminfo dropHeight="100" dropDistanceBase="100" dropDistanceRandom="50" globalDropBoxId="3" />
+		</environment>
+	</npc>
+	<npc id="81000003">
+		<environment feature="Develop" npcAttackGroup="1" npcDefenseGroup="2" minimapIconName="boss" defenceMaterial="5" hitImmune="1" abnormalImmune="1" class="4" rankIcon="a" carePathToEnemy="1" raceString="spirit" gender="2" portrait="./Data/Resource/Image/Portrait/Mob/02020078_M_voodoodoll_P.png" damagedColorScale="6" damagedVibrateDuration="0.8" damagedVibrateAmp="1" regenEffect="BG/Common/Eff_Test_Regen.xml" lookAtMyPCWhenTalking="0">
+			<model kfm="02020078_M_voodoodoll" scale="3" shadowScale="230" rotationSpeed="720" />
+			<stat hp="85783" asp="100" msp="100" atp="120" evp="116" cap="38" cad="500" car="50" ndd="9" pap="63" map="63" />
+			<distance avoid="90" sight="400" sightHeightUP="300" sightHeightDown="0" />
+			<skill ids="50000129" probs="100" />
+			<collision shape="box" width="130" height="200" depth="130" />
+			<capsule radius="80" height="200" />
+			<dead time="5" defaultaction="Dead_A" upaction="Dead_B" />
+			<push back="1" up="1" knockback="1" />
+			<normal action="Idle_A" prob="10000" />
+			<dropiteminfo dropHeight="100" dropDistanceBase="100" dropDistanceRandom="50" globalDropBoxId="4" globalDeadDropBoxId="1011" />
+		</environment>
+	</npc>
+	<npc id="81000004">
+		<environment feature="Develop" npcAttackGroup="1" npcDefenseGroup="2" minimapIconName="boss" defenceMaterial="5" hitImmune="1" abnormalImmune="1" level="65" class="4" rankIcon="a" carePathToEnemy="1" raceString="spirit" gender="2" portrait="./Data/Resource/Image/Portrait/Mob/23000096_B_GigantikaTail_P.png" damagedColorScale="6" damagedVibrateDuration="1" damagedVibrateAmp="1" regenEffect="BG/Common/Eff_Test_Regen.xml" lookAtMyPCWhenTalking="0">
+			<model kfm="23000096_B_GigantikaTail" shadowScale="230" rotationSpeed="720" />
+			<stat hp="66724167" asp="100" msp="100" atp="120" evp="136" cap="70" cad="500" car="65" ndd="930" pap="550361" map="550361" />
+			<distance avoid="90" sight="400" sightHeightUP="300" sightHeightDown="0" />
+			<skill ids="50000129" probs="100" />
+			<collision shape="box" width="650" height="1400" depth="1500" depthOffset="700" heightOffset="900" />
+			<capsule radius="80" height="200" />
+			<dead time="5" defaultaction="Dead_A" upaction="Dead_B" />
+			<push back="1" up="1" knockback="1" />
+			<normal action="Idle_A" prob="10000" />
+			<dropiteminfo dropHeight="100" dropDistanceBase="100" dropDistanceRandom="50" globalDropBoxId="4" globalDeadDropBoxId="1011" />
+		</environment>
+	</npc>
+</ms2>

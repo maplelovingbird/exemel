@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+  <key id="100001" name="" command="Slime1" feature="ChatEmoticon" />
+  <key id="100002" name="" command="Slime2" feature="ChatEmoticon" />
+  <key id="100003" name="" command="Slime3" feature="ChatEmoticon" />
+  <key id="100004" name="" command="Slime4" feature="ChatEmoticon" />
+  <key id="100005" name="" command="Slime5" feature="ChatEmoticon" />
+  <key id="100006" name="" command="Slime6" feature="ChatEmoticon" />
+  <key id="100007" name="" command="Slime7" feature="ChatEmoticon" />
+  <key id="100008" name="" command="Slime8" feature="ChatEmoticon" />
+  <key id="200001" name="" command="Ducky1" feature="ChatEmoticon" />
+  <key id="200002" name="" command="Ducky2" feature="ChatEmoticon" />
+  <key id="200003" name="" command="Ducky3" feature="ChatEmoticon" />
+  <key id="200004" name="" command="Ducky4" feature="ChatEmoticon" />
+  <key id="200005" name="" command="Ducky5" feature="ChatEmoticon" />
+  <key id="200006" name="" command="Ducky6" feature="ChatEmoticon" />
+  <key id="200007" name="" command="Ducky7" feature="ChatEmoticon" />
+  <key id="200008" name="" command="Ducky8" feature="ChatEmoticon" />
+  <key id="300001" name="" command="OrangeMushroom1" feature="ChatEmoticon" />
+  <key id="300002" name="" command="OrangeMushroom2" feature="ChatEmoticon" />
+  <key id="300003" name="" command="OrangeMushroom3" feature="ChatEmoticon" />
+  <key id="300004" name="" command="OrangeMushroom4" feature="ChatEmoticon" />
+  <key id="300005" name="" command="OrangeMushroom5" feature="ChatEmoticon" />
+  <key id="300006" name="" command="OrangeMushroom6" feature="ChatEmoticon" />
+  <key id="300007" name="" command="OrangeMushroom7" feature="ChatEmoticon" />
+  <key id="300008" name="" command="OrangeMushroom8" feature="ChatEmoticon" />
+  <key id="400001" name="" command="Urza1" feature="ChatEmoticon" />
+  <key id="400002" name="" command="Urza2" feature="ChatEmoticon" />
+  <key id="400003" name="" command="Urza3" feature="ChatEmoticon" />
+  <key id="400004" name="" command="Urza4" feature="ChatEmoticon" />
+  <key id="400005" name="" command="Urza5" feature="ChatEmoticon" />
+  <key id="400006" name="" command="Urza6" feature="ChatEmoticon" />
+  <key id="400007" name="" command="Urza7" feature="ChatEmoticon" />
+  <key id="400008" name="" command="Urza8" feature="ChatEmoticon" />
+  <key id="400009" name="" command="Urza9" feature="ChatEmoticon" />
+  <key id="400010" name="" command="Urza10" feature="ChatEmoticon" />
+  <key id="400011" name="" command="Urza11" feature="ChatEmoticon" />
+  <key id="400012" name="" command="Urza12" feature="ChatEmoticon" />
+  <key id="200009" name="" command="Ducky9" feature="ChatEmoticon" />
+  <key id="200010" name="" command="Ducky10" feature="ChatEmoticon" />
+  <key id="200011" name="" command="Ducky11" feature="ChatEmoticon" />
+  <key id="200012" name="" command="Ducky12" feature="ChatEmoticon" />
+  <key id="500001" name="" command="MapleFriends1" feature="ChatEmoticon" />
+  <key id="500002" name="" command="MapleFriends2" feature="ChatEmoticon" />
+  <key id="500003" name="" command="MapleFriends3" feature="ChatEmoticon" />
+  <key id="500004" name="" command="MapleFriends4" feature="ChatEmoticon" />
+  <key id="500005" name="" command="MapleFriends5" feature="ChatEmoticon" />
+  <key id="500006" name="" command="MapleFriends6" feature="ChatEmoticon" />
+  <key id="500007" name="" command="MapleFriends7" feature="ChatEmoticon" />
+  <key id="500008" name="" command="MapleFriends8" feature="ChatEmoticon" />
+
+  <key id="9000000" name="" command="MapleStars2_1" feature="ChatEmoticon" />
+	<key id="9000001" name="" command="MapleStars2_2" feature="ChatEmoticon" />
+	<key id="9000002" name="" command="MapleStars2_3" feature="ChatEmoticon" />
+	<key id="9000003" name="" command="MapleStars2_4" feature="ChatEmoticon" />
+	<key id="9000004" name="" command="MapleStars2_5" feature="ChatEmoticon" />
+	<key id="9000005" name="" command="MapleStars2_6" feature="ChatEmoticon" />
+	
+	<key id="9000006" name="" command="MapleStars2_7" feature="ChatEmoticon" />
+	<key id="9000007" name="" command="MapleStars2_8" feature="ChatEmoticon" />
+	<key id="9000008" name="" command="MapleStars2_9" feature="ChatEmoticon" />
+	<key id="9000009" name="" command="MapleStars2_10" feature="ChatEmoticon" />
+	<key id="9000010" name="" command="MapleStars2_11" feature="ChatEmoticon" />
+	<key id="9000011" name="" command="MapleStars2_12" feature="ChatEmoticon" />
+	
+	<key id="9000012" name="" command="MapleStars2_13" feature="ChatEmoticon" />
+	<key id="9000013" name="" command="MapleStars2_14" feature="ChatEmoticon" />
+	<key id="9000014" name="" command="MapleStars2_15" feature="ChatEmoticon" />
+	<key id="9000015" name="" command="MapleStars2_16" feature="ChatEmoticon" />
+	<key id="9000016" name="" command="MapleStars2_17" feature="ChatEmoticon" />
+	
+	<key id="9000017" name="" command="MapleStars2_18" feature="ChatEmoticon" />
+	<key id="9000018" name="" command="MapleStars2_19" feature="ChatEmoticon" />
+	<key id="9000019" name="" command="MapleStars2_20" feature="ChatEmoticon" />
+	<key id="9000020" name="" command="MapleStars2_21" feature="ChatEmoticon" />
+	<key id="9000021" name="" command="MapleStars2_22" feature="ChatEmoticon" />
+	<key id="9000022" name="" command="MapleStars2_23" feature="ChatEmoticon" />
+	<key id="9000023" name="" command="MapleStars2_24" feature="ChatEmoticon" />
+	<key id="9000024" name="" command="MapleStars2_25" feature="ChatEmoticon" />
+	<key id="9000025" name="" command="MapleStars2_26" feature="ChatEmoticon" />
+	<key id="9000026" name="" command="MapleStars2_27" feature="ChatEmoticon" />
+	<key id="9000027" name="" command="MapleStars2_28" feature="ChatEmoticon" />
+	<key id="9000028" name="" command="MapleStars2_29" feature="ChatEmoticon" />
+	<key id="9000029" name="" command="MapleStars2_30" feature="ChatEmoticon" />
+	<key id="9000030" name="" command="MapleStars2_31" feature="ChatEmoticon" />
+	<key id="9000031" name="" command="MapleStars2_32" feature="ChatEmoticon" />
+	<key id="9000032" name="" command="MapleStars2_33" feature="ChatEmoticon" />
+</ms2>
+</ms2>

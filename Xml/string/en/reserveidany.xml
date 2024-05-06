@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="1" name="관리" />
+	<key id="2" name="운영" />
+	<key id="3" name="도우미" />
+	<key id="4" name="공지" />
+	<key id="5" name="개발" />
+	<key id="6" name="admin" />
+	<key id="7" name="메이플" />
+	<key id="8" name="넥슨" />
+	<key id="9" name="maple" />
+	<key id="10" name="nexon" />
+	<key id="11" name="mapIe" />
+	<key id="12" name="이벤트" />
+	<key id="13" name="event" />
+	<key id="14" name="gm" />
+	<key id="15" name="테스트" />
+	<key id="16" name="test" />
+	<key id="17" name="시스템" />
+	<key id="18" name="system" />
+	<key id="19" name="password" />
+	<key id="20" name="비밀번호" />
+	<key id="21" name="패스워드" />
+	<key id="22" name="지앰" />
+	<key id="23" name="쥐앰" />
+	<key id="24" name="지엠" />
+	<key id="25" name="쥐엠" />
+	<key id="26" name="QA" />
+	<key id="27" name="MS2" />
+	<key id="28" name="메소" />
+	<key id="29" name="meso" />
+	<key id="30" name="메럿" />
+	<key id="31" name="merat" />
+	
+  <key id="32" name="周恩来" />
+  <key id="33" name="周恩來" />
+  <key id="34" name="周恩" />
+  <key id="35" name="恩來" />
+  <key id="36" name="恩来" />
+  
+  <key id="37" name="毛泽东" />
+  <key id="38" name="毛澤東" />
+  <key id="39" name="毛泽" />
+  <key id="40" name="毛澤" />
+  <key id="41" name="澤東" />
+  <key id="42" name="泽东" />
+  
+  <key id="43" name="邓小平" />
+  <key id="44" name="鄧小平" />
+  <key id="45" name="小平" />
+  
+  <key id="46" name="江泽民" />
+  <key id="47" name="江澤民" />
+  <key id="48" name="泽民" />
+  <key id="49" name="澤民" />
+  
+  <key id="50" name="胡锦涛" />
+  <key id="51" name="胡錦濤" />
+  <key id="52" name="锦涛" />
+  <key id="53" name="錦濤" />
+  <key id="54" name="胡锦" />
+  <key id="55" name="胡錦" />
+  
+  <key id="56" name="习近平" />
+  <key id="57" name="習近平" />
+  <key id="58" name="近平" />
+  <key id="59" name="习近" />
+  <key id="60" name="習近" />
+  
+  <key id="61" name="李克强" />
+  <key id="62" name="克强" />
+  <key id="63" name="李克" />
+  
+  
+  <key id="64" name="刘少奇" />
+  <key id="65" name="劉少奇" />
+  <key id="66" name="少奇" />
+  
+  <key id="67" name="孙中山" />
+  <key id="68" name="孫中山" />
+  <key id="69" name="中山" />
+  <key id="70" name="孙中" />
+  <key id="71" name="孫中" />
+  
+  <key id="72" name="蒋介石" />
+  <key id="73" name="蔣介石" />
+  <key id="74" name="介石" />
+  <key id="75" name="蔣介" />
+  <key id="76" name="蒋介" />
+  
+  <key id="77" name="蔡英文" />
+  <key id="78" name="蔡英" />
+  
+  <key id="79" name="陈水扁" />
+  <key id="80" name="陳水扁" />
+  <key id="81" name="水扁" />
+  <key id="82" name="陈水" />
+  <key id="83" name="陳水" />
+  
+  <key id="84" name="草泥马" />
+  <key id="85" name="操你妈" />
+  <key id="86" name="草你妈" />
+  <key id="87" name="草你吗" />
+  <key id="88" name="艹你嘛" />
+  <key id="89" name="草你马" />
+  <key id="91" name="你马" />
+  <key id="92" name="你妈" />
+  <key id="93" name="你吗" />
+  <key id="94" name="曹你" />
+  <key id="95" name="操你" />
+  <key id="96" name="草泥娘" />
+  <key id="97" name="操你娘" />
+  <key id="98" name="草你娘" />
+  <key id="99" name="草你娘" />
+  <key id="100" name="艹你娘" />
+  <key id="101" name="你娘" />
+  
+  <key id="102" name="傻逼" />
+  <key id="103" name="台湾" />
+  <key id="104" name="湾佬" />
+  <key id="105" name="台独" />
+  
+  <key id="106" name="台獨" />
+  <key id="107" name="民進黨" />
+  <key id="108" name="冥禁黨" />
+  <key id="109" name="冥禁洞" />
+  <key id="110" name="SB" />
+  <key id="111" name="4v" />
+  <key id="112" name="民主" />
+  <key id="113" name="六四" />
+  <key id="114" name="天安門" />
+  <key id="115" name="中共" />
+  <key id="116" name="中華民國" />
+  <key id="117" name="ROC" />
+  <key id="118" name="支那" />
+  <key id="119" name="中國" />
+  <key id="120" name="China" />
+  <key id="121" name="九二共識" />
+  <key id="122" name="92共識" />
+  <key id="123" name="一邊一國" />
+  <key id="124" name="台灣獨立" />
+  <key id="125" name="政治" />
+  <key id="126" name="屠殺" />
+  <key id="127" name="一國兩制" />
+  <key id="128" name="統一" />
+  <key id="129" name="天皇" />
+  <key id="130" name="皇民" />
+  <key id="131" name="共匪" />
+  <key id="132" name="起義" />
+  <key id="133" name="留島不留人" />
+  <key id="134" name="言論自由" />
+  <key id="135" name="勞改" />
+  <key id="136" name="集中營" />
+  <key id="137" name="法西斯" />
+  <key id="138" name="機掰" />
+  
+  <key id="139" name="私服" />
+  <key id="140" name="sf" />
+  <key id="141" name="s服" />
+  
+  <key id="142" name="法轮功" />
+  <key id="143" name="法轮" />
+  <key id="144" name="法輪宮" />
+</ms2>

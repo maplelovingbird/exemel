@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<chatEmoticon id="100001" group_id="1" category_id="100" image_path="./Data/Resource/Image/Emoticon/Slime_1.png" feature="ChatEmoticon" />
+	<chatEmoticon id="100002" group_id="1" category_id="100" image_path="./Data/Resource/Image/Emoticon/Slime_2.png" feature="ChatEmoticon" />
+	<chatEmoticon id="100003" group_id="1" category_id="100" image_path="./Data/Resource/Image/Emoticon/Slime_3.png" feature="ChatEmoticon" />
+	<chatEmoticon id="100004" group_id="1" category_id="100" image_path="./Data/Resource/Image/Emoticon/Slime_4.png" feature="ChatEmoticon" />
+	<chatEmoticon id="100005" group_id="1" category_id="100" image_path="./Data/Resource/Image/Emoticon/Slime_5.png" feature="ChatEmoticon" />
+	<chatEmoticon id="100006" group_id="1" category_id="100" image_path="./Data/Resource/Image/Emoticon/Slime_6.png" feature="ChatEmoticon" />
+	<chatEmoticon id="100007" group_id="1" category_id="100" image_path="./Data/Resource/Image/Emoticon/Slime_7.png" feature="ChatEmoticon" />
+	<chatEmoticon id="100008" group_id="1" category_id="100" image_path="./Data/Resource/Image/Emoticon/Slime_8.png" feature="ChatEmoticon" />
+	<chatEmoticon id="200001" group_id="2" category_id="200" image_path="./Data/Resource/Image/Emoticon/Ducky_1.png" feature="ChatEmoticon" />
+	<chatEmoticon id="200002" group_id="2" category_id="200" image_path="./Data/Resource/Image/Emoticon/Ducky_2.png" feature="ChatEmoticon" />
+	<chatEmoticon id="200003" group_id="2" category_id="200" image_path="./Data/Resource/Image/Emoticon/Ducky_3.png" feature="ChatEmoticon" />
+	<chatEmoticon id="200004" group_id="2" category_id="200" image_path="./Data/Resource/Image/Emoticon/Ducky_4.png" feature="ChatEmoticon" />
+	<chatEmoticon id="200005" group_id="2" category_id="200" image_path="./Data/Resource/Image/Emoticon/Ducky_5.png" feature="ChatEmoticon" />
+	<chatEmoticon id="200006" group_id="2" category_id="200" image_path="./Data/Resource/Image/Emoticon/Ducky_6.png" feature="ChatEmoticon" />
+	<chatEmoticon id="200007" group_id="2" category_id="200" image_path="./Data/Resource/Image/Emoticon/Ducky_7.png" feature="ChatEmoticon" />
+	<chatEmoticon id="200008" group_id="2" category_id="200" image_path="./Data/Resource/Image/Emoticon/Ducky_8.png" feature="ChatEmoticon" />
+	<chatEmoticon id="300001" group_id="3" category_id="300" image_path="./Data/Resource/Image/Emoticon/OrangeMushroom_1.png" feature="ChatEmoticon" />
+	<chatEmoticon id="300002" group_id="3" category_id="300" image_path="./Data/Resource/Image/Emoticon/OrangeMushroom_2.png" feature="ChatEmoticon" />
+	<chatEmoticon id="300003" group_id="3" category_id="300" image_path="./Data/Resource/Image/Emoticon/OrangeMushroom_3.png" feature="ChatEmoticon" />
+	<chatEmoticon id="300004" group_id="3" category_id="300" image_path="./Data/Resource/Image/Emoticon/OrangeMushroom_4.png" feature="ChatEmoticon" />
+	<chatEmoticon id="300005" group_id="3" category_id="300" image_path="./Data/Resource/Image/Emoticon/OrangeMushroom_5.png" feature="ChatEmoticon" />
+	<chatEmoticon id="300006" group_id="3" category_id="300" image_path="./Data/Resource/Image/Emoticon/OrangeMushroom_6.png" feature="ChatEmoticon" />
+	<chatEmoticon id="300007" group_id="3" category_id="300" image_path="./Data/Resource/Image/Emoticon/OrangeMushroom_7.png" feature="ChatEmoticon" />
+	<chatEmoticon id="300008" group_id="3" category_id="300" image_path="./Data/Resource/Image/Emoticon/OrangeMushroom_8.png" feature="ChatEmoticon" />
+	<chatEmoticon id="400001" group_id="4" category_id="400" image_path="./Data/Resource/Image/Emoticon/Urza_1.png" feature="ChatEmoticon" />
+	<chatEmoticon id="400002" group_id="4" category_id="400" image_path="./Data/Resource/Image/Emoticon/Urza_2.png" feature="ChatEmoticon" />
+	<chatEmoticon id="400003" group_id="4" category_id="400" image_path="./Data/Resource/Image/Emoticon/Urza_3.png" feature="ChatEmoticon" />
+	<chatEmoticon id="400004" group_id="4" category_id="400" image_path="./Data/Resource/Image/Emoticon/Urza_4.png" feature="ChatEmoticon" />
+	<chatEmoticon id="400005" group_id="4" category_id="400" image_path="./Data/Resource/Image/Emoticon/Urza_5.png" feature="ChatEmoticon" />
+	<chatEmoticon id="400006" group_id="4" category_id="400" image_path="./Data/Resource/Image/Emoticon/Urza_6.png" feature="ChatEmoticon" />
+	<chatEmoticon id="400007" group_id="4" category_id="400" image_path="./Data/Resource/Image/Emoticon/Urza_7.png" feature="ChatEmoticon" />
+	<chatEmoticon id="400008" group_id="4" category_id="400" image_path="./Data/Resource/Image/Emoticon/Urza_8.png" feature="ChatEmoticon" />
+	<chatEmoticon id="400009" group_id="5" category_id="400" image_path="./Data/Resource/Image/Emoticon/Urza_9.png" feature="ChatEmoticon" />
+	<chatEmoticon id="400010" group_id="5" category_id="400" image_path="./Data/Resource/Image/Emoticon/Urza_10.png" feature="ChatEmoticon" />
+	<chatEmoticon id="400011" group_id="5" category_id="400" image_path="./Data/Resource/Image/Emoticon/Urza_11.png" feature="ChatEmoticon" />
+	<chatEmoticon id="400012" group_id="5" category_id="400" image_path="./Data/Resource/Image/Emoticon/Urza_12.png" feature="ChatEmoticon" />
+	<chatEmoticon id="200009" group_id="6" category_id="200" image_path="./Data/Resource/Image/Emoticon/Ducky_9.png" feature="ChatEmoticon" />
+	<chatEmoticon id="200010" group_id="6" category_id="200" image_path="./Data/Resource/Image/Emoticon/Ducky_10.png" feature="ChatEmoticon" />
+	<chatEmoticon id="200011" group_id="6" category_id="200" image_path="./Data/Resource/Image/Emoticon/Ducky_11.png" feature="ChatEmoticon" />
+	<chatEmoticon id="200012" group_id="6" category_id="200" image_path="./Data/Resource/Image/Emoticon/Ducky_12.png" feature="ChatEmoticon" />
+	<chatEmoticon id="500001" group_id="7" category_id="500" image_path="./Data/Resource/Image/Emoticon/MapleFriends_1.png" feature="ChatEmoticon" />
+	<chatEmoticon id="500002" group_id="7" category_id="500" image_path="./Data/Resource/Image/Emoticon/MapleFriends_2.png" feature="ChatEmoticon" />
+	<chatEmoticon id="500003" group_id="7" category_id="500" image_path="./Data/Resource/Image/Emoticon/MapleFriends_3.png" feature="ChatEmoticon" />
+	<chatEmoticon id="500004" group_id="7" category_id="500" image_path="./Data/Resource/Image/Emoticon/MapleFriends_4.png" feature="ChatEmoticon" />
+	<chatEmoticon id="500005" group_id="7" category_id="500" image_path="./Data/Resource/Image/Emoticon/MapleFriends_5.png" feature="ChatEmoticon" />
+	<chatEmoticon id="500006" group_id="7" category_id="500" image_path="./Data/Resource/Image/Emoticon/MapleFriends_6.png" feature="ChatEmoticon" />
+	<chatEmoticon id="500007" group_id="7" category_id="500" image_path="./Data/Resource/Image/Emoticon/MapleFriends_7.png" feature="ChatEmoticon" />
+	<chatEmoticon id="500008" group_id="7" category_id="500" image_path="./Data/Resource/Image/Emoticon/MapleFriends_8.png" feature="ChatEmoticon" />
+	
+	<chatEmoticon id="9000000" group_id="900" category_id="9000" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/top5/canopy.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000001" group_id="900" category_id="9000" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/top5/Landera.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000002" group_id="900" category_id="9000" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/top5/Puri_v1.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000003" group_id="900" category_id="9000" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/top5/puri_v2.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000004" group_id="900" category_id="9000" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/top5/shue.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000005" group_id="900" category_id="9000" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/top5/SilentRemi.png" feature="ChatEmoticon" />
+
+	<chatEmoticon id="9000006" group_id="901" category_id="9001" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/top10/akara.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000007" group_id="901" category_id="9001" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/top10/akara2.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000008" group_id="901" category_id="9001" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/top10/lux.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000009" group_id="901" category_id="9001" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/top10/read.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000010" group_id="901" category_id="9001" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/top10/Woomizutsune_v1.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000011" group_id="901" category_id="9001" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/top10/Woomizutsune_v2.png" feature="ChatEmoticon" />
+
+	<chatEmoticon id="9000012" group_id="902" category_id="9002" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/top15/Landera.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000013" group_id="902" category_id="9002" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/top15/Matenou.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000014" group_id="902" category_id="9002" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/top15/november (discord).png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000015" group_id="902" category_id="9002" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/top15/puri.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000016" group_id="902" category_id="9002" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/top15/syowa.png" feature="ChatEmoticon" />
+
+	<chatEmoticon id="9000017" group_id="903" category_id="9003" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/rest/Arkdeso.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000018" group_id="903" category_id="9003" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/rest/arkdeso2.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000019" group_id="903" category_id="9003" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/rest/canopy.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000020" group_id="903" category_id="9003" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/rest/Elvina_v1.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000021" group_id="903" category_id="9003" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/rest/emivyn.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000022" group_id="903" category_id="9003" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/rest/emivyn2_v1.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000023" group_id="903" category_id="9003" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/rest/emivyn2_v2.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000024" group_id="903" category_id="9003" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/rest/eonett.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000025" group_id="903" category_id="9003" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/rest/eonett2.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000026" group_id="903" category_id="9003" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/rest/fuwaa.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000027" group_id="903" category_id="9003" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/rest/Harajuku.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000028" group_id="903" category_id="9003" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/rest/HARRIER.png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000029" group_id="903" category_id="9003" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/rest/november (discord).PNG" feature="ChatEmoticon" />
+	<chatEmoticon id="9000030" group_id="903" category_id="9003" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/rest/potnoodles23 (discord).png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000031" group_id="903" category_id="9003" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/rest/seiyun (discord).png" feature="ChatEmoticon" />
+	<chatEmoticon id="9000032" group_id="903" category_id="9003" image_path="./Data/Resource/Image/MapleStars2/Emoticon/EmoteEvent/rest/syowa.png" feature="ChatEmoticon" />
+</ms2>

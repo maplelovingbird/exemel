@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+  <key id="shutdown_adventure_level_exp" name="Settle Prestige Rank Experience Obtained" />
+  <key id="shutdown_ai_open_portal" name="Disable CreateRoom in AI" />
+  <key id="shutdown_banurls" name="Check Prohibited Web URL" />
+  <key id="shutdown_blackmarket_use" name="Restrict Black Market Use" />
+  <key id="shutdown_blueprint" name="Disable Blueprints" />
+  <key id="shutdown_blueprint_market" name="Disable Blueprint Market" />
+  <key id="shutdown_bonusgame_bluemarble" name="Blue Marble (Board Game) Emergency Suspension" />
+  <key id="shutdown_cashshop_use" name="Prohibit Cash Shop Use" />
+  <key id="shutdown_charinfo_req" name="Restrict Character Info Search (When DB  is under load)" />
+  <key id="shutdown_chat_channel" name="Prohibit Channel Chat" />
+  <key id="shutdown_chat_emoticon" name="Disable Chat Stickers" />
+  <key id="shutdown_chat_group" name="Prohibit Group Chat" />
+  <key id="shutdown_chat_guild" name="Prohibit Guild Chat" />
+  <key id="shutdown_chat_guild_megaphone" name="Prohibit Guild Alert Chat" />
+  <key id="shutdown_chat_super" name="Prohibit Super Chat Theme" />
+  <key id="shutdown_chat_world" name="Prohibit World Chat" />
+  <key id="shutdown_choose_mentor" name="Disable Mentee's Mentorship Invitation" />
+  <key id="shutdown_club" name="Club Emergency Suspension" />
+  <key id="shutdown_coditab" name="[Not for NA] Disable Glamor Tab shutdown (Can't use Style Item Pass / Equip to Glamor Tab)" />
+  <key id="shutdown_container_use" name="Prohibit Storage Use" />
+  <key id="shutdown_creating_soulbinder" name="Restrict Soul Binder Character Creation" />
+  <key id="shutdown_creating_striker" name="Restrict Striker Character Creation" />
+  <key id="shutdown_daily_mission_reward" name="Restrict Navigator Level-up Guide Rewards" />
+  <key id="shutdown_dungeon_match_cooldown" name="Comradery Buff Emergency Suspension" />
+  <key id="shutdown_dungeon_nutanuta" name="Disable Nutaman Dungeon" />
+  <key id="shutdown_dungeon_reward_mentee" name="Disable Returning Player Dungeon Reward " />
+  <key id="shutdown_dungeon_reward_mentee_party" name="Disable Returning Player Party Benefits " />
+  <key id="shutdown_dungeon_reward_mentor" name="Disable Mentee Dungeon Reward" />
+  <key id="shutdown_enchant" name="Disable Enchanting" />
+  <key id="shutdown_fame_completion_ticket" name="Disable Daily Mission Insta-Completion Vouchers" />
+  <key id="shutdown_fame_contents_mission_attack" name="Sky Fortress Sortie System" />
+  <key id="shutdown_fame_contents_sky_fortress" name="Move to Sky Fortress" />
+  <key id="shutdown_field_war" name="Disable Legion Battles" />
+  <key id="shutdown_find_dungeon_helper" name="Disable Dungeon Help Requests" />
+  <key id="shutdown_fishing" name="Restrict Fishing" />
+  <key id="shutdown_fittingdoll_use" name="Prohibit Mannequin Use" />
+  <key id="shutdown_gachaItem_break" name="Disable Capsule Item Dismantling" />
+  <key id="shutdown_gem_meta" name="Disable Meta Badge" />
+  <key id="shutdown_gift_meratmarket" name="Suspend Gift Function in Meret Market (Blue, Red)" />
+  <key id="shutdown_gift_ugc" name="Suspend Gift Function in Meret Market (Design Shop)" />
+  <key id="shutdown_guild_attend" name="Disable Guild Check-ins" />
+  <key id="shutdown_guild_championship" name="Disable Guild Championship Registration" />
+  <key id="shutdown_guild_donate" name="Disable Guild Donations" />
+  <key id="shutdown_guild_event" name="Disable Guild Event Use" />
+  <key id="shutdown_guild_house" name="Disable Guild House" />
+  <key id="shutdown_guild_join_search" name="Restrict Guild Search Use" />
+  <key id="shutdown_guild_skill" name="Disable Guild Skill Use" />
+  <key id="shutdown_guild_storage" name="Disable Guild Storage" />
+  <key id="shutdown_guild_upgrade_npc" name="Disable Guild NPC Upgrades" />
+  <key id="shutdown_guild_upgrade_skill" name="Disable Guild Skill Upgrades" />
+  <key id="shutdown_happy_birthday" name="Birthday Content" />
+  <key id="shutdown_homemade_other" name="Ranching/Farming in Someone's House Emergency Suspension" />
+  <key id="shutdown_hongbao_item" name="Disable Red Envelope Item" />
+  <key id="shutdown_housing_downsize" name="Disable House Height Adjustment" />
+  <key id="shutdown_ingame_ranking" name="In-game Ranking Emergency Suspension" />
+  <key id="shutdown_instance_server_role" name="Disable Separate Instance Server by Roles" />
+  <key id="shutdown_invite_mentee" name="Disable Mentor's Mentee Invitations" />
+  <key id="shutdown_item_break" name="Disable Item Dismantling" />
+  <key id="shutdown_item_drop" name="Prohibit Item Drop" />
+  <key id="shutdown_item_enchant_transform" name="Transfer Enchant System" />
+  <key id="shutdown_item_exchange_scroll_use" name="Fragment and Scroll Fusion Emergency Suspension" />
+  <key id="shutdown_item_extraction" name="Disable Glamour Forging" />
+  <key id="shutdown_item_merge" name="Item Empowerment Emergency Suspension" />
+  <key id="shutdown_item_multi_use" name="Disable Open Multiple Containers Function" />
+  <key id="shutdown_item_repacking" name="Disable Item Repackaging Function" />
+  <key id="shutdown_item_socket_gemstone_puton_off" name="Disable Jewel Equipping/Removal" />
+  <key id="shutdown_item_socket_gemstone_upgrade" name="Disable Jewel Upgrades" />
+  <key id="shutdown_item_socket_system" name="Disable Item Socket/Jewel System (Overrides other shutdown_item_socket_xx toggles)" />
+  <key id="shutdown_item_socket_transfer" name="Socket Transfer System" />
+  <key id="shutdown_item_socket_unlock" name="Disable Socket Unlocks (Doesn't affect socket scrolls)" />
+  <key id="shutdown_lapenshard" name="Disable Lapenshards" />
+  <key id="shutdown_live_broadcast" name="Disable China Livestream" />
+  <key id="shutdown_mail_receive" name="Prohibit Mail Item Receipt" />
+  <key id="shutdown_mail_send" name="Prohibit Sending Mail" />
+  <key id="shutdown_mentee_attend" name="Disable Returning Player Dungeon Attendance Check " />
+  <key id="shutdown_mentor_mentee" name="Disable Assigning Mentor/Mentee Character" />
+  <key id="shutdown_mentoring_ui" name="Disable Mentoring UI" />
+  <key id="shutdown_merat_use" name="Prohibit Meret Use" />
+  <key id="shutdown_meratmarket_use" name="Restrict Meret Market Use" />
+  <key id="shutdown_mesomarket_use" name="Restrict Meso Market Use" />
+  <key id="shutdown_multi_riding" name="Buddy Mount Use" />
+  <key id="shutdown_music_score_ugc" name="Design Shop Music Score Listing" />
+  <key id="shutdown_musicinstrument" name="Restrict Instrument Performance" />
+  <key id="shutdown_npc_min_hp" name="Disable Minimum Enemy Health Settings Used in NPC AI" />
+  <key id="shutdown_npcshop_sell" name="Prohibit Selling to Shop" />
+  <key id="shutdown_party_match" name="Restrict Party Search Use" />
+  <key id="shutdown_party_vote_kick_user" name="Disable Party Kick Vote" />
+  <key id="shutdown_payback_buy_count" name="Disable payback purchases (prestige rank count, meret count)" />
+  <key id="shutdown_payback_monthly_reward" name="Disable monthly payback rewards" />
+  <key id="shutdown_pet_autoitempick" name="Restrict Pet Auto-loot" />
+  <key id="shutdown_pet_autoitemuse" name="Restrict Pet Auto-potion" />
+  <key id="shutdown_pet_compose" name="Pet Fusion Emergency Suspension" />
+  <key id="shutdown_pet_evolution" name="Pet Evolution Emergency Suspension" />
+  <key id="shutdown_pet_name_change" name="Restrict Pet Name Change" />
+  <key id="shutdown_pet_remake_option" name="Disable Pet Talent Re-rolling" />
+  <key id="shutdown_pet_summon" name="Restrict Summoning Pet" />
+  <key id="shutdown_pet_trap" name="Pet Capture Emergency Suspension" />
+  <key id="shutdown_pvp_ranking_dual_mode" name="Restrict Arena Use" />
+  <key id="shutdown_recall_scroll" name="Prohibit Guild/Party Summon Scroll Use" />
+  <key id="shutdown_skin_socket" name="Outfit Socket/Jewel Emergency Suspension (Overridden by shutdown_item_socket_system)&#xA;Suspend Outfit Socket Unlocks, Suspend Outfit Dismantling, Suspend Outfit Jewel Upgrade/Dismantling/Equipping" />
+  <key id="shutdown_soulbinder_rank_arena" name="Restrict Soul Binder from Applying to Arena" />
+  <key id="shutdown_steam_cashshop_use" name="Disable Steam Wallet" />
+  <key id="shutdown_striker_rank_arena" name="Restrict Striker Entry to Arena" />
+  <key id="shutdown_time_run_event" name="Race Against Time event" />
+  <key id="shutdown_trade" name="Prohibit Trade" />
+  <key id="shutdown_twitch" name="Disable Twitch Service" />
+  <key id="shutdown_ugc_event" name="Events Created in House (OX Quiz event for livestreaming)" />
+  <key id="shutdown_united_dungeon_reward_reset" name="Disable Dungeon Reward Resets" />
+  <key id="shutdown_unlimited_enchant" name="Disable Extreme Breakthrough" />
+  <key id="shutdown_user_massive" name="Massive Event Hosted by Player" />
+  <key id="shutdown_world_champion_reward" name="Disable World Raid Reward Claiming" />
+  <key id="shutdown_world_champion_spawn" name="Disable World Raid Spawns" />
+</ms2>

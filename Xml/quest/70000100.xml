@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- MapleStars2 Lv.50 Potion at lv 71 -->
+<ms2>
+	<environment>
+		<quest>
+			<basic questID="70000100" questType="3" autoStart="1" useNavi="FALSE" />
+			<require maxLevel="99" />
+			<completeReward>
+				<essentialJobItem code="20000718" rank="1" count="1" />
+			</completeReward>
+			<guide guideType="level" guideMinLevel="1" guideMaxLevel="99" />
+			<condition type="level" target="71" value="1" />
+		</quest>
+	</environment>
+</ms2>
