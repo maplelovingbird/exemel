@@ -76,7 +76,7 @@
 	</additional>
 	<additional id="10800041" mainType="1" skillGroupType="1">
 		<level level="1" stringParam="20">
-			<Basic durationTick="15000" clearEffectFromPVPZone="1" />
+			<Basic durationTick="22000" clearEffectFromPVPZone="1" />
 			<Motion keepEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Stop_01.xml" />
 			<SpecialAbility>
 				<v type="cap_ignore_limit_extra" value="200" />
@@ -84,7 +84,7 @@
 			<UI icon="./Data/Resource/Image/skill/icon/10800041_buff.png" />
 		</level>
 		<level level="2" stringParam="20">
-			<Basic durationTick="15000" clearEffectFromPVPZone="1" />
+			<Basic durationTick="22000" clearEffectFromPVPZone="1" />
 			<Motion keepEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Stop_01.xml" />
 			<SpecialAbility>
 				<v type="cap_ignore_limit_extra" value="200" />
@@ -92,7 +92,7 @@
 			<UI icon="./Data/Resource/Image/skill/icon/10800041_buff.png" />
 		</level>
 		<level level="3" stringParam="30">
-			<Basic durationTick="15000" clearEffectFromPVPZone="1" />
+			<Basic durationTick="22000" clearEffectFromPVPZone="1" />
 			<Motion keepEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Stop_01.xml" />
 			<SpecialAbility>
 				<v type="cap_ignore_limit_extra" value="300" />
@@ -100,7 +100,7 @@
 			<UI icon="./Data/Resource/Image/skill/icon/10800041_buff.png" />
 		</level>
 		<level level="4" stringParam="40">
-			<Basic durationTick="15000" clearEffectFromPVPZone="1" />
+			<Basic durationTick="22000" clearEffectFromPVPZone="1" />
 			<Motion keepEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Stop_01.xml" />
 			<SpecialAbility>
 				<v type="cap_ignore_limit_extra" value="400" />
@@ -108,7 +108,7 @@
 			<UI icon="./Data/Resource/Image/skill/icon/10800041_buff.png" />
 		</level>
 		<level level="5" stringParam="50">
-			<Basic durationTick="15000" clearEffectFromPVPZone="1" />
+			<Basic durationTick="22000" clearEffectFromPVPZone="1" />
 			<Motion keepEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Stop_01.xml" />
 			<SpecialAbility>
 				<v type="cap_ignore_limit_extra" value="500" />
@@ -116,7 +116,7 @@
 			<UI icon="./Data/Resource/Image/skill/icon/10800041_buff.png" />
 		</level>
 		<level level="6" stringParam="60">
-			<Basic durationTick="15000" clearEffectFromPVPZone="1" />
+			<Basic durationTick="22000" clearEffectFromPVPZone="1" />
 			<Motion keepEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Stop_01.xml" />
 			<SpecialAbility>
 				<v type="cap_ignore_limit_extra" value="600" />
@@ -124,7 +124,7 @@
 			<UI icon="./Data/Resource/Image/skill/icon/10800041_buff.png" />
 		</level>
 		<level level="7" stringParam="70">
-			<Basic durationTick="15000" clearEffectFromPVPZone="1" />
+			<Basic durationTick="22000" clearEffectFromPVPZone="1" />
 			<Motion keepEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Stop_01.xml" />
 			<SpecialAbility>
 				<v type="cap_ignore_limit_extra" value="700" />
@@ -132,7 +132,7 @@
 			<UI icon="./Data/Resource/Image/skill/icon/10800041_buff.png" />
 		</level>
 		<level level="8" stringParam="80">
-			<Basic durationTick="15000" clearEffectFromPVPZone="1" />
+			<Basic durationTick="22000" clearEffectFromPVPZone="1" />
 			<Motion keepEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Stop_01.xml" />
 			<SpecialAbility>
 				<v type="cap_ignore_limit_extra" value="800" />
@@ -140,7 +140,7 @@
 			<UI icon="./Data/Resource/Image/skill/icon/10800041_buff.png" />
 		</level>
 		<level level="9" stringParam="90">
-			<Basic durationTick="15000" clearEffectFromPVPZone="1" />
+			<Basic durationTick="22000" clearEffectFromPVPZone="1" />
 			<Motion keepEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Stop_01.xml" />
 			<SpecialAbility>
 				<v type="cap_ignore_limit_extra" value="900" />
@@ -148,7 +148,7 @@
 			<UI icon="./Data/Resource/Image/skill/icon/10800041_buff.png" />
 		</level>
 		<level level="10" stringParam="100">
-			<Basic durationTick="15000" clearEffectFromPVPZone="1" />
+			<Basic durationTick="22000" clearEffectFromPVPZone="1" />
 			<Motion keepEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Stop_01.xml" />
 			<SpecialAbility>
 				<v type="cap_ignore_limit_extra" value="1000" />
@@ -156,7 +156,7 @@
 			<UI icon="./Data/Resource/Image/skill/icon/10800041_buff.png" />
 		</level>
 		<level level="11" stringParam="100">
-			<Basic durationTick="15000" clearEffectFromPVPZone="1" />
+			<Basic durationTick="22000" clearEffectFromPVPZone="1" />
 			<Motion keepEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Stop_01.xml" />
 			<SpecialAbility>
 				<v type="cap_ignore_limit_extra" value="1000" />
@@ -164,7 +164,7 @@
 			<UI icon="./Data/Resource/Image/skill/icon/10800041_buff.png" />
 		</level>
 		<level level="12" stringParam="100">
-			<Basic durationTick="15000" clearEffectFromPVPZone="1" />
+			<Basic durationTick="22000" clearEffectFromPVPZone="1" />
 			<Motion keepEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Stop_01.xml" />
 			<SpecialAbility>
 				<v type="cap_ignore_limit_extra" value="1000" />

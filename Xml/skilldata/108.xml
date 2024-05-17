@@ -867,25 +867,25 @@
 			<stateAttr clearCooldownFromPVPZone="1" />
 			<condition useCoolDownShowUI="1" />
 		</basic>
-		<level value="1" cooldown="60000" stringParam="20,15">
+		<level value="1" cooldown="60000" stringParam="20,22">
 			<actionAdditional additionalID="10800041" level="1" skillTarget="1">
 				<beginCondition allowBattleRidingState="1" />
 			</actionAdditional>
 			<motion motionEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Cast_01.xml" holdWeapon="0" />
 		</level>
-		<level value="2" cooldown="60000" stringParam="20,15">
+		<level value="2" cooldown="60000" stringParam="20,22">
 			<actionAdditional additionalID="10800041" level="2" skillTarget="1">
 				<beginCondition allowBattleRidingState="1" />
 			</actionAdditional>
 			<motion motionEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Cast_01.xml" holdWeapon="0" />
 		</level>
-		<level value="3" cooldown="60000" stringParam="30,15">
+		<level value="3" cooldown="60000" stringParam="30,22">
 			<actionAdditional additionalID="10800041" level="3" skillTarget="1">
 				<beginCondition allowBattleRidingState="1" />
 			</actionAdditional>
 			<motion motionEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Cast_01.xml" holdWeapon="0" />
 		</level>
-		<level value="4" cooldown="60000" stringParam="40,15">
+		<level value="4" cooldown="60000" stringParam="40,22">
 			<actionAdditional additionalID="10800041" level="4" skillTarget="1">
 				<beginCondition allowBattleRidingState="1" />
 			</actionAdditional>
@@ -897,43 +897,43 @@
 			</actionAdditional>
 			<motion motionEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Cast_01.xml" holdWeapon="0" />
 		</level>
-		<level value="6" cooldown="60000" stringParam="60,15">
+		<level value="6" cooldown="60000" stringParam="60,22">
 			<actionAdditional additionalID="10800041" level="6" skillTarget="1">
 				<beginCondition allowBattleRidingState="1" />
 			</actionAdditional>
 			<motion motionEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Cast_01.xml" holdWeapon="0" />
 		</level>
-		<level value="7" cooldown="60000" stringParam="70,15">
+		<level value="7" cooldown="60000" stringParam="70,22">
 			<actionAdditional additionalID="10800041" level="7" skillTarget="1">
 				<beginCondition allowBattleRidingState="1" />
 			</actionAdditional>
 			<motion motionEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Cast_01.xml" holdWeapon="0" />
 		</level>
-		<level value="8" cooldown="60000" stringParam="80,15">
+		<level value="8" cooldown="60000" stringParam="80,22">
 			<actionAdditional additionalID="10800041" level="8" skillTarget="1">
 				<beginCondition allowBattleRidingState="1" />
 			</actionAdditional>
 			<motion motionEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Cast_01.xml" holdWeapon="0" />
 		</level>
-		<level value="9" cooldown="60000" stringParam="90,15">
+		<level value="9" cooldown="60000" stringParam="90,22">
 			<actionAdditional additionalID="10800041" level="9" skillTarget="1">
 				<beginCondition allowBattleRidingState="1" />
 			</actionAdditional>
 			<motion motionEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Cast_01.xml" holdWeapon="0" />
 		</level>
-		<level value="10" cooldown="60000" stringParam="100,15">
+		<level value="10" cooldown="60000" stringParam="100,22">
 			<actionAdditional additionalID="10800041" level="10" skillTarget="1">
 				<beginCondition allowBattleRidingState="1" />
 			</actionAdditional>
 			<motion motionEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Cast_01.xml" holdWeapon="0" />
 		</level>
-		<level value="11" cooldown="60000" stringParam="100,15">
+		<level value="11" cooldown="60000" stringParam="100,22">
 			<actionAdditional additionalID="10800041" level="11" skillTarget="1">
 				<beginCondition allowBattleRidingState="1" />
 			</actionAdditional>
 			<motion motionEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Cast_01.xml" holdWeapon="0" />
 		</level>
-		<level value="12" cooldown="60000" stringParam="100,15">
+		<level value="12" cooldown="60000" stringParam="100,22">
 			<actionAdditional additionalID="10800041" level="12" skillTarget="1">
 				<beginCondition allowBattleRidingState="1" />
 			</actionAdditional>

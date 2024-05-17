@@ -2555,20 +2555,21 @@
 			<UI icon="./Data/Resource/Image/skill/icon/MonsterHPRecovery.png" />
 		</level>
 	</additional>
+	<!-- 卡乐尔回血 -->
 	<additional id="50000357" mainType="5">
 		<level level="1">
 			<Basic durationTick="2000" intervalTick="600" dotCondition="1" />
 			<Motion startEffect="NPC/Skill/KnightHollowArmor/Eff_KnightHollowArmor_HPRecover_Start.xml" abnormalImmuneBreak="5" />
-			<Recovery hpRate="0.009" />
+			<Recovery hpRate="0.5" />
 			<UI icon="./Data/Resource/Image/skill/icon/MonsterHPRecovery.png" />
 		</level>
 	</additional>
-	<!-- 卡乐尔小怪回血 -->
+	<!-- 卡乐尔回血 -->
 	<additional id="50000358" mainType="5">
 		<level level="1" stringParam="72">
 			<Basic durationTick="3000" intervalTick="899" dotCondition="1" />
 			<Motion startEffect="NPC/Skill/KnightHollowArmorSwordRed/Eff_KnightHollowArmorSwordRed_HPRecover_Start.xml" abnormalImmuneBreak="5" />
-			<Recovery hpRate="0.009" />
+			<Recovery hpRate="0.0008" />
 			<UI icon="./Data/Resource/Image/skill/icon/MonsterHPRecovery.png" />
 		</level>
 	</additional>
@@ -2631,7 +2632,7 @@
 		<level level="1" stringParam="45">
 			<Basic durationTick="3000" intervalTick="899" dotCondition="1" />
 			<Motion startEffect="NPC/Skill/KnightHollowArmorSwordRed/Eff_KnightHollowArmorSwordRed_HPRecover_Start.xml" abnormalImmuneBreak="5" />
-			<Recovery hpRate="0.009" />
+			<Recovery hpRate="0.0008" />
 			<UI icon="./Data/Resource/Image/skill/icon/MonsterHPRecovery.png" />
 		</level>
 	</additional>
@@ -2640,7 +2641,7 @@
 		<level level="1" stringParam="18">
 			<Basic durationTick="3000" intervalTick="899" dotCondition="1" />
 			<Motion startEffect="NPC/Skill/KnightHollowArmorSwordRed/Eff_KnightHollowArmorSwordRed_HPRecover_Start.xml" abnormalImmuneBreak="5" />
-			<Recovery hpRate="0.009" />
+			<Recovery hpRate="0.0008" />
 			<UI icon="./Data/Resource/Image/skill/icon/MonsterHPRecovery.png" />
 		</level>
 	</additional>

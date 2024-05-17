@@ -8418,7 +8418,8 @@
 		</environment>
 	</npc>
 	<npc id="11000711">
-		<environment feature="Season1" friendly="2" npcAttackGroup="2" npcDefenseGroup="1" nametag="1" hitImmune="1" abnormalImmune="1" level="10" class="5" carePathToEnemy="1" gender="1" illust="BunnygirlMint_normal" portrait="./Data/Resource/Image/Portrait/Npc/11000102_Bunnygirl1_P.png">
+		<!-- <environment feature="Season1" friendly="2" npcAttackGroup="2" npcDefenseGroup="1" kind="13" iconName="emoticon_movie_npc_eventshop" minimapIconName="emoticon_movie_npc_eventshop" shopId="305" nametag="1" hitImmune="1" abnormalImmune="1" level="20" 	class="5" carePathToEnemy="1" npcSoundEnd="ko/Npc/02000972" gender="0" illust="Bobby_normal" portrait="./Data/Resource/Image/Portrait/Npc/11001003_HouseKeeper26_P.png"></environment> -->
+		<environment feature="Season1" friendly="2" npcAttackGroup="2" npcDefenseGroup="1" kind="13" iconName="emoticon_movie_npc_eventshop" minimapIconName="emoticon_movie_npc_eventshop" shopId="305" nametag="1" hitImmune="1" abnormalImmune="1" level="10" class="5" carePathToEnemy="1" gender="1" illust="BunnygirlMint_normal" portrait="./Data/Resource/Image/Portrait/Npc/11000102_Bunnygirl1_P.png">
 			<model kfm="11000102_Bunnygirl1" shadowScale="80" rotationSpeed="540" walkSpeed="120" />
 			<stat hp="49" msp="100" atp="8" evp="6" ndd="29" pap="195" map="195" />
 			<distance avoid="100" />

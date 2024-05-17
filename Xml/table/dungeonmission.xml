@@ -39,12 +39,21 @@
 	<DungeonMission id="23011003" feature="DungeonRank01" type="DeathCount" maxScore="900" applyCount="3" isPenaltyType="1" />
 	<DungeonMission id="23011004" feature="DungeonRank01" type="DamageBySkill" value1="50100747" maxScore="600" applyCount="5" isPenaltyType="1" />
 	<DungeonMission id="23011005" feature="DungeonRank01" type="DamageBySkill" value1="50100740,50100748,50100749" maxScore="200" isPenaltyType="1" />
+
+	<!--normal lubelisk custom-->
+	<DungeonMission id="20018000" feature="DungeonRank01" type="LastHitNpc" value1="29000203" maxScore="400" />
+	<DungeonMission id="20018001" feature="DungeonRank01" type="PlayTime" value1="540" value2="780" maxScore="560" />
+	<DungeonMission id="20018003" feature="DungeonRank01" type="DeathCount" maxScore="420" applyCount="6" isPenaltyType="1" />
+	<DungeonMission id="20018004" feature="DungeonRank01" type="DamageBySkill" value1="50101114" maxScore="120" applyCount="5" isPenaltyType="1" />
+	<DungeonMission id="20018005" feature="DungeonRank01" type="DamageBySkill" value1="99999876" maxScore="120" applyCount="10" isPenaltyType="1" />
+	<!--chaos lubelisk og-->
 	<DungeonMission id="23018000" feature="DungeonRank01" type="LastHitNpc" value1="23200068" maxScore="400" />
-	<DungeonMission id="23018001" feature="DungeonRank01" type="PlayTime" value1="600" value2="300" maxScore="200" />
-	<DungeonMission id="23018002" feature="DungeonRank01" type="PlayTime" value1="300" value2="600" maxScore="300" />
+	<DungeonMission id="23018001" feature="DungeonRank01" type="PlayTime" value1="600" value2="300" maxScore="300" />
+	<DungeonMission id="23018002" feature="DungeonRank01" type="PlayTime" value1="300" value2="600" maxScore="260" />
 	<DungeonMission id="23018003" feature="DungeonRank01" type="DeathCount" maxScore="900" applyCount="4" isPenaltyType="1" />
 	<DungeonMission id="23018004" feature="DungeonRank01" type="DamageBySkill" value1="50101114" maxScore="400" applyCount="4" isPenaltyType="1" />
 	<DungeonMission id="23018005" feature="DungeonRank01" type="DamageBySkill" value1="99999876" maxScore="200" applyCount="2" isPenaltyType="1" />
+
 	<DungeonMission id="23019000" feature="DungeonRank01" type="LastHitNpc" value1="23200080" maxScore="400" />
 	<DungeonMission id="23019001" feature="DungeonRank01" type="PlayTime" value1="600" value2="300" maxScore="200" />
 	<DungeonMission id="23019002" feature="DungeonRank01" type="PlayTime" value1="300" value2="600" maxScore="300" />

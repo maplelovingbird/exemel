@@ -26947,6 +26947,20 @@
 	<key id="31001498" class="enchant" name="10단계 엘리트 인챈트 주문서 (한손)" />
 	<key id="31001499" class="enchant" name="10단계 엘리트 인챈트 주문서 (쌍수)" />
 	<key id="31001500" class="enchant" name="10단계 엘리트 인챈트 주문서 (양손)" />
+	<key id="31001501" class="enchant" name="50레벨 엑설런트 망토 옵션 수치 변경권" feature="ItemRemakeOption02" />
+	<key id="31001502" class="enchant" name="50레벨 엑설런트 벨트 옵션 수치 변경권" feature="ItemRemakeOption02" />
+	<key id="31001503" class="enchant" name="50레벨 엑설런트 귀고리 옵션 수치 변경권" feature="ItemRemakeOption02" />
+	<key id="31001504" class="enchant" name="50레벨 엑설런트 목걸이 옵션 수치 변경권" feature="ItemRemakeOption02" />
+	<key id="31001505" class="enchant" name="50레벨 엑설런트 반지 옵션 수치 변경권" feature="ItemRemakeOption02" />
+	<key id="31001506" class="enchant" name="엑설런트 액세서리 옵션 수치 변경권" feature="ItemRemakeOption02" />
+	<key id="31001507" class="enchant" name="무기 옵션 변경권 (한손)" feature="ItemRemakeOption02" />
+	<key id="31001508" class="enchant" name="무기 옵션 변경권 (양손)" feature="ItemRemakeOption02" />
+	<key id="31001509" class="enchant" name="방어구 옵션 수치 변경권" feature="ItemRemakeOption02" />
+	<key id="31001510" class="enchant" name="50레벨 레전더리 신발 옵션 수치 변경권" feature="ItemRemakeOption02" />
+	<key id="31001511" class="enchant" name="50레벨 레전더리 장갑 옵션 수치 변경권" feature="ItemRemakeOption02" />
+	<key id="31001512" class="enchant" name="50레벨 레전더리 모자 옵션 수치 변경권" feature="ItemRemakeOption02" />
+	<key id="31001513" class="enchant" name="50레벨 레전더리 하의 옵션 수치 변경권" feature="ItemRemakeOption02" />
+	<key id="31001514" class="enchant" name="50레벨 레전더리 상의 옵션 수치 변경권" feature="ItemRemakeOption02" />
 	<key id="31001515" class="enchant" name="60레벨 엑설런트 액세서리 옵션 수치 변경권" feature="ItemRemakeOption" />
 	<key id="31001516" class="enchant" name="60레벨 레전더리 액세서리 옵션 수치 변경권" feature="ItemRemakeOption" />
 	<key id="31001517" class="enchant" name="60레벨 에픽 액세서리 옵션 수치 변경권" feature="ItemRemakeOption" />

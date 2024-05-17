@@ -1268,8 +1268,10 @@
 			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
 			<Condition hasBuffID="10900001" />
 			<SpecialAbility>
-				<v type="firedamage" value="64" />
-				<v type="hpRate" value="46" />
+				<!-- <v type="firedamage" value="64" /> -->
+				<!-- <v type="hpRate" value="46" /> -->
+				<v type="firedamage" value="68" />
+				<v type="hpRate" value="50" />
 			</SpecialAbility>
 		</level>
 		<level level="11">
@@ -1366,8 +1368,10 @@
 			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
 			<Condition hasBuffID="10900011" />
 			<SpecialAbility>
-				<v type="icedamage" value="64" />
-				<v type="nddRate" value="46" />
+				<!-- <v type="icedamage" value="64" /> -->
+				<!-- <v type="nddRate" value="46" /> -->
+				<v type="icedamage" value="68" />
+				<v type="nddRate" value="50" />
 			</SpecialAbility>
 		</level>
 		<level level="11">
@@ -1482,10 +1486,14 @@
 			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
 			<Condition hasBuffID="10900021" />
 			<SpecialAbility>
-				<v type="thunderdamage" value="64" />
-				<v type="msp" value="10" />
+				<!-- <v type="thunderdamage" value="64" /> -->
+				<!-- <v type="msp" value="10" /> -->
+				<!-- <v type="evp" value="4" /> -->
+				<!-- <v type="rmsp" value="10" /> -->
+				<v type="thunderdamage" value="68" />
+				<v type="msp" value="11" />
 				<v type="evp" value="4" />
-				<v type="rmsp" value="10" />
+				<v type="rmsp" value="11" />
 			</SpecialAbility>
 		</level>
 		<level level="11">

@@ -2467,7 +2467,7 @@
             <Motion abnormalImmuneBreak="5" />
             <Status itemRecoveryHPRate="-0.4" healRecoveryHPRate="-0.4" />
             <SpecialAbility>
-                <v type="hpRate" value="50000" />
+                <v type="hpRate" value="20000" />
             </SpecialAbility>
             <UI icon="./Data/Resource/Image/Item/icon/20000989.png" iconOnOff="0" />
         </level>

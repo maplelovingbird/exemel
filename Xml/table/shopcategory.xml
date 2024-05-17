@@ -212,6 +212,17 @@
 			<tab name="1010" category="ETC" priority="99" />
 		</tab>
 	</category>
+	<!-- 活动商店 - 巴比 -->
+	<category id="305">
+		<tab name="1002" symbol="./Data/Resource/Image/Emblem/symbol_shop/shop_category_02.png" priority="1">
+			<!-- 乐器 -->
+			<tab name="2079" category="YUEQI" priority="1" />
+			<!-- 乐谱 -->
+			<tab name="2080" category="YUEPU" priority="2" />
+			<!-- 钓鱼工具 -->
+			<tab name="2081" category="FISH" priority="3" />
+		</tab>
+	</category>
 	<!-- 樱桃玲 -->
 	<category id="242">
 		<tab name="1002" symbol="./Data/Resource/Image/Emblem/symbol_shop/shop_category_02.png" priority="1">
@@ -474,6 +485,7 @@
 			<tab name="3038" category="ETC" priority="6" />
 		</tab>
 	</category>
+	<!-- 公会城杂货商店 -->
 	<category id="35">
 		<tab name="1002" symbol="./Data/Resource/Image/Emblem/symbol_shop/shop_category_01.png" priority="1">
 			<tab name="2031" category="GSKIN" priority="1" static="0" />

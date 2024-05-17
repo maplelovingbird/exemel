@@ -27,7 +27,7 @@
 	<feature name="FieldEventSpawn" KR="8" CN="8" />
 	<feature name="WorldChampionMushroom" KR="37" CN="38" />
 	<feature name="DungeonBoss_4P" KR="8" CN="8" />
-	<feature name="RuneBlader" KR="99" CN="29" />
+	<feature name="RuneBlader" KR="10" CN="29" />
 	<feature name="MusicInstrument" KR="9" CN="9" />
 	<feature name="Fishing" KR="9" CN="9" />
 	<feature name="Fishing02" KR="44" CN="46" />
@@ -136,7 +136,7 @@
 	<feature name="Zakum02" KR="99" CN="33" />
 	<feature name="DungeonRank01" KR="27" CN="29" />
 	<feature name="DungeonRank02" KR="99" CN="99" />
-	<feature name="GuildRaid01" KR="99" CN="29" />
+	<feature name="GuildRaid01" KR="29" CN="29" />
 	<feature name="GuildRaid02" KR="99" CN="99" />
 	<feature name="PinkBean01" KR="28" CN="40" />
 	<feature name="BattleFieldOnly01" KR="25" CN="25" />

@@ -805,6 +805,7 @@
 			</motion>
 		</level>
 	</skill>
+	<!-- 弓箭手 - 闪射 -->
 	<skill id="10500021" comment="레인저">
 		<basic mainType="2">
 			<ui icon="./Data/Resource/Image/skill/icon/10500021.png" attackType="1" />
@@ -987,22 +988,41 @@
 				</attack>
 			</motion>
 		</level>
-		<level value="10" sp="7" cooldown="500" stringParam="69">
+		<!-- <level value="10" sp="7" cooldown="500" stringParam="69"> -->
+			<!-- <motion sequenceName="Ranger_RapidShot_01_A" strTagEffects="e0=CH/Skill/Ranger/Eff_Ranger_RapidShot_Cast_01.xml,e1=CH/Skill/Ranger/Eff_Ranger_RapidShot_Cast_02.xml"> -->
+				<!-- <attack point="p0" targetCount="1" magicPathID="10500021" attacktype="1" attackMethodType="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="2" unrideOnHit="1"> -->
+					<!-- <range rangeType="frustum" distance="900" height="150" width="150" endWidth="600" applyTarget="1" /> -->
+					<!-- <arrow rayPhysxTest="1" nonTarget="1" bounceType="3" bounceCount="4" collision="25,100,15" collisionAdd="0,25,15" effect="CH/Skill/Ranger/Eff_Ranger_RapidShot_Ball_01.xml" effectDestroy="CH/Skill/Ranger/Eff_Ranger_RapidShot_Destroy_01.xml" /> -->
+					<!-- <damage rate="0.69" effectHit="CH/Skill/Ranger/Eff_Ranger_RapidShot_Hit_01.xml" attackMaterial="100" /> -->
+				<!-- </attack> -->
+				<!-- <attack point="p1" targetCount="1" magicPathID="105000211" attacktype="1" attackMethodType="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="2" unrideOnHit="1"> -->
+					<!-- <range rangeType="frustum" distance="900" height="150" width="150" endWidth="600" applyTarget="1" /> -->
+					<!-- <arrow rayPhysxTest="1" nonTarget="1" bounceType="3" bounceCount="4" collision="25,100,15" collisionAdd="0,25,15" effect="CH/Skill/Ranger/Eff_Ranger_RapidShot_Ball_01.xml" effectDestroy="CH/Skill/Ranger/Eff_Ranger_RapidShot_Destroy_01.xml" /> -->
+					<!-- <damage rate="0.69" effectHit="CH/Skill/Ranger/Eff_Ranger_RapidShot_Hit_01.xml" attackMaterial="100" /> -->
+				<!-- </attack> -->
+				<!-- <attack point="p2" targetCount="1" magicPathID="105000212" attacktype="1" attackMethodType="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="2" unrideOnHit="1"> -->
+					<!-- <range rangeType="frustum" distance="900" height="150" width="150" endWidth="600" applyTarget="1" /> -->
+					<!-- <arrow rayPhysxTest="1" nonTarget="1" bounceType="3" bounceCount="4" collision="25,100,15" collisionAdd="0,25,15" effect="CH/Skill/Ranger/Eff_Ranger_RapidShot_Ball_01.xml" effectDestroy="CH/Skill/Ranger/Eff_Ranger_RapidShot_Destroy_01.xml" /> -->
+					<!-- <damage rate="0.69" effectHit="CH/Skill/Ranger/Eff_Ranger_RapidShot_Hit_01.xml" attackMaterial="100" /> -->
+				<!-- </attack> -->
+			<!-- </motion> -->
+		<!-- </level> -->
+		<level value="10" sp="7" cooldown="500" stringParam="74">
 			<motion sequenceName="Ranger_RapidShot_01_A" strTagEffects="e0=CH/Skill/Ranger/Eff_Ranger_RapidShot_Cast_01.xml,e1=CH/Skill/Ranger/Eff_Ranger_RapidShot_Cast_02.xml">
 				<attack point="p0" targetCount="1" magicPathID="10500021" attacktype="1" attackMethodType="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="2" unrideOnHit="1">
 					<range rangeType="frustum" distance="900" height="150" width="150" endWidth="600" applyTarget="1" />
 					<arrow rayPhysxTest="1" nonTarget="1" bounceType="3" bounceCount="4" collision="25,100,15" collisionAdd="0,25,15" effect="CH/Skill/Ranger/Eff_Ranger_RapidShot_Ball_01.xml" effectDestroy="CH/Skill/Ranger/Eff_Ranger_RapidShot_Destroy_01.xml" />
-					<damage rate="0.69" effectHit="CH/Skill/Ranger/Eff_Ranger_RapidShot_Hit_01.xml" attackMaterial="100" />
+					<damage rate="0.74" effectHit="CH/Skill/Ranger/Eff_Ranger_RapidShot_Hit_01.xml" attackMaterial="100" />
 				</attack>
 				<attack point="p1" targetCount="1" magicPathID="105000211" attacktype="1" attackMethodType="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="2" unrideOnHit="1">
 					<range rangeType="frustum" distance="900" height="150" width="150" endWidth="600" applyTarget="1" />
 					<arrow rayPhysxTest="1" nonTarget="1" bounceType="3" bounceCount="4" collision="25,100,15" collisionAdd="0,25,15" effect="CH/Skill/Ranger/Eff_Ranger_RapidShot_Ball_01.xml" effectDestroy="CH/Skill/Ranger/Eff_Ranger_RapidShot_Destroy_01.xml" />
-					<damage rate="0.69" effectHit="CH/Skill/Ranger/Eff_Ranger_RapidShot_Hit_01.xml" attackMaterial="100" />
+					<damage rate="0.74" effectHit="CH/Skill/Ranger/Eff_Ranger_RapidShot_Hit_01.xml" attackMaterial="100" />
 				</attack>
 				<attack point="p2" targetCount="1" magicPathID="105000212" attacktype="1" attackMethodType="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="2" unrideOnHit="1">
 					<range rangeType="frustum" distance="900" height="150" width="150" endWidth="600" applyTarget="1" />
 					<arrow rayPhysxTest="1" nonTarget="1" bounceType="3" bounceCount="4" collision="25,100,15" collisionAdd="0,25,15" effect="CH/Skill/Ranger/Eff_Ranger_RapidShot_Ball_01.xml" effectDestroy="CH/Skill/Ranger/Eff_Ranger_RapidShot_Destroy_01.xml" />
-					<damage rate="0.69" effectHit="CH/Skill/Ranger/Eff_Ranger_RapidShot_Hit_01.xml" attackMaterial="100" />
+					<damage rate="0.74" effectHit="CH/Skill/Ranger/Eff_Ranger_RapidShot_Hit_01.xml" attackMaterial="100" />
 				</attack>
 			</motion>
 		</level>
@@ -1428,7 +1448,7 @@
 				<!-- </attack> -->
 			<!-- </motion> -->
 		<!-- </level> -->
-		<level value="1" sp="15" cooldown="500" stringParam="58">
+		<level value="1" sp="11" cooldown="500" stringParam="58">
 			<motion sequenceName="Ranger_IceArrow_A" selfInputCombo="selfinputcombo" strTagEffects="e0=CH/Skill/Ranger/Eff_Ranger_IceArrow_Cast_01.xml">
 				<attack point="p0" targetCount="3" magicPathID="10500031" attacktype="1" attackMethodType="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="2" unrideOnHit="1">
 					<range rangeType="frustum" distance="900" height="150" width="150" endWidth="750" applyTarget="1" />
@@ -1439,7 +1459,7 @@
 				</attack>
 			</motion>
 		</level>
-		<level value="2" sp="15" cooldown="500" stringParam="63">
+		<level value="2" sp="11" cooldown="500" stringParam="63">
 			<motion sequenceName="Ranger_IceArrow_A" selfInputCombo="selfinputcombo" strTagEffects="e0=CH/Skill/Ranger/Eff_Ranger_IceArrow_Cast_01.xml">
 				<attack point="p0" targetCount="3" magicPathID="10500031" attacktype="1" attackMethodType="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="2" unrideOnHit="1">
 					<range rangeType="frustum" distance="900" height="150" width="150" endWidth="750" applyTarget="1" />
@@ -1450,7 +1470,7 @@
 				</attack>
 			</motion>
 		</level>
-		<level value="3" sp="15" cooldown="500" stringParam="68">
+		<level value="3" sp="11" cooldown="500" stringParam="68">
 			<motion sequenceName="Ranger_IceArrow_A" selfInputCombo="selfinputcombo" strTagEffects="e0=CH/Skill/Ranger/Eff_Ranger_IceArrow_Cast_01.xml">
 				<attack point="p0" targetCount="3" magicPathID="10500031" attacktype="1" attackMethodType="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="2" unrideOnHit="1">
 					<range rangeType="frustum" distance="900" height="150" width="150" endWidth="750" applyTarget="1" />
@@ -1461,7 +1481,7 @@
 				</attack>
 			</motion>
 		</level>
-		<level value="4" sp="15" cooldown="500" stringParam="73">
+		<level value="4" sp="11" cooldown="500" stringParam="73">
 			<motion sequenceName="Ranger_IceArrow_A" selfInputCombo="selfinputcombo" strTagEffects="e0=CH/Skill/Ranger/Eff_Ranger_IceArrow_Cast_01.xml">
 				<attack point="p0" targetCount="3" magicPathID="10500031" attacktype="1" attackMethodType="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="2" unrideOnHit="1">
 					<range rangeType="frustum" distance="900" height="150" width="150" endWidth="750" applyTarget="1" />
@@ -1472,7 +1492,7 @@
 				</attack>
 			</motion>
 		</level>
-		<level value="5" sp="15" cooldown="500" stringParam="78">
+		<level value="5" sp="11" cooldown="500" stringParam="78">
 			<motion sequenceName="Ranger_IceArrow_A" selfInputCombo="selfinputcombo" strTagEffects="e0=CH/Skill/Ranger/Eff_Ranger_IceArrow_Cast_01.xml">
 				<attack point="p0" targetCount="3" magicPathID="10500031" attacktype="1" attackMethodType="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="2" unrideOnHit="1">
 					<range rangeType="frustum" distance="900" height="150" width="150" endWidth="750" applyTarget="1" />
@@ -1483,7 +1503,7 @@
 				</attack>
 			</motion>
 		</level>
-		<level value="6" sp="15" cooldown="500" stringParam="83">
+		<level value="6" sp="11" cooldown="500" stringParam="83">
 			<motion sequenceName="Ranger_IceArrow_A" selfInputCombo="selfinputcombo" strTagEffects="e0=CH/Skill/Ranger/Eff_Ranger_IceArrow_Cast_01.xml">
 				<attack point="p0" targetCount="3" magicPathID="10500031" attacktype="1" attackMethodType="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="2" unrideOnHit="1">
 					<range rangeType="frustum" distance="900" height="150" width="150" endWidth="750" applyTarget="1" />
@@ -1494,7 +1514,7 @@
 				</attack>
 			</motion>
 		</level>
-		<level value="7" sp="15" cooldown="500" stringParam="88">
+		<level value="7" sp="11" cooldown="500" stringParam="88">
 			<motion sequenceName="Ranger_IceArrow_A" selfInputCombo="selfinputcombo" strTagEffects="e0=CH/Skill/Ranger/Eff_Ranger_IceArrow_Cast_01.xml">
 				<attack point="p0" targetCount="3" magicPathID="10500031" attacktype="1" attackMethodType="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="2" unrideOnHit="1">
 					<range rangeType="frustum" distance="900" height="150" width="150" endWidth="750" applyTarget="1" />
@@ -1505,7 +1525,7 @@
 				</attack>
 			</motion>
 		</level>
-		<level value="8" sp="15" cooldown="500" stringParam="93">
+		<level value="8" sp="11" cooldown="500" stringParam="93">
 			<motion sequenceName="Ranger_IceArrow_A" selfInputCombo="selfinputcombo" strTagEffects="e0=CH/Skill/Ranger/Eff_Ranger_IceArrow_Cast_01.xml">
 				<attack point="p0" targetCount="3" magicPathID="10500031" attacktype="1" attackMethodType="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="2" unrideOnHit="1">
 					<range rangeType="frustum" distance="900" height="150" width="150" endWidth="750" applyTarget="1" />
@@ -1516,7 +1536,7 @@
 				</attack>
 			</motion>
 		</level>
-		<level value="9" sp="15" cooldown="500" stringParam="98">
+		<level value="9" sp="11" cooldown="500" stringParam="98">
 			<motion sequenceName="Ranger_IceArrow_A" selfInputCombo="selfinputcombo" strTagEffects="e0=CH/Skill/Ranger/Eff_Ranger_IceArrow_Cast_01.xml">
 				<attack point="p0" targetCount="3" magicPathID="10500031" attacktype="1" attackMethodType="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="2" unrideOnHit="1">
 					<range rangeType="frustum" distance="900" height="150" width="150" endWidth="750" applyTarget="1" />
@@ -1527,7 +1547,7 @@
 				</attack>
 			</motion>
 		</level>
-		<level value="10" sp="15" cooldown="500" stringParam="103">
+		<level value="10" sp="11" cooldown="500" stringParam="103">
 			<motion sequenceName="Ranger_IceArrow_A" selfInputCombo="selfinputcombo" strTagEffects="e0=CH/Skill/Ranger/Eff_Ranger_IceArrow_Cast_01.xml">
 				<attack point="p0" targetCount="3" magicPathID="10500031" attacktype="1" attackMethodType="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="2" unrideOnHit="1">
 					<range rangeType="frustum" distance="900" height="150" width="150" endWidth="750" applyTarget="1" />
@@ -1538,7 +1558,7 @@
 				</attack>
 			</motion>
 		</level>
-		<level value="11" sp="15" cooldown="500" stringParam="108">
+		<level value="11" sp="11" cooldown="500" stringParam="108">
 			<motion sequenceName="Ranger_IceArrow_A" selfInputCombo="selfinputcombo" strTagEffects="e0=CH/Skill/Ranger/Eff_Ranger_IceArrow_Cast_01.xml">
 				<attack point="p0" targetCount="3" magicPathID="10500031" attacktype="1" attackMethodType="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="2" unrideOnHit="1">
 					<range rangeType="frustum" distance="900" height="150" width="150" endWidth="750" applyTarget="1" />
@@ -1549,7 +1569,7 @@
 				</attack>
 			</motion>
 		</level>
-		<level value="12" sp="15" cooldown="500" stringParam="113">
+		<level value="12" sp="11" cooldown="500" stringParam="113">
 			<motion sequenceName="Ranger_IceArrow_A" selfInputCombo="selfinputcombo" strTagEffects="e0=CH/Skill/Ranger/Eff_Ranger_IceArrow_Cast_01.xml">
 				<attack point="p0" targetCount="3" magicPathID="10500031" attacktype="1" attackMethodType="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="2" unrideOnHit="1">
 					<range rangeType="frustum" distance="900" height="150" width="150" endWidth="750" applyTarget="1" />
@@ -5027,6 +5047,7 @@
 			</motion>
 		</level>
 	</skill>
+	<!-- 雄鹰滑翔 -->
 	<skill id="10500151" comment="레인저">
 		<basic mainType="2">
 			<ui icon="./Data/Resource/Image/skill/icon/10500151.png" />
@@ -5034,7 +5055,8 @@
 			<stateAttr keyIsDown="1" clearCooldownFromPVPZone="1" ignoreReduceCooldown="1" />
 			<changeSkill changeSkillCheckEffectID="10500293,10500251" changeSkillCheckEffectLevel="0,1" changeSkillCheckEffectOverlapCount="0,0" changeSkillID="10500153,10500152" />
 		</basic>
-		<level value="1" ep="80" cooldown="650">
+		<!-- <level value="1" ep="80" cooldown="650"> -->
+		<level value="1" ep="60" cooldown="650">
 			<motion sequenceName="Ranger_EagleGlide_A" strTagEffects="e0=CH/Skill/Ranger/Eff_Ranger_EagleGlide_Cast_01.xml" movedistance="750" moveEaseType="2" ignoreCollisionGroups="4" startNoneBlendDelay="1" />
 		</level>
 	</skill>

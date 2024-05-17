@@ -1281,10 +1281,12 @@
   </item>
   <item id="15200124">
     <environment>
-      <property rank="4" type="1" subtype="52" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15200028.png" category="BH" blackMarketCategory="152_equip" remakeDisable="true" gearScore="52" rePackingLimitCount="3" rePackingItemConsumeCount="30">
+      <!-- <property rank="4" type="1" subtype="52" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15200028.png" category="BH" blackMarketCategory="152_equip" remakeDisable="true" gearScore="52" rePackingLimitCount="3" rePackingItemConsumeCount="30"> -->
+	  <property rank="4" type="1" subtype="52" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15200028.png" category="BH" blackMarketCategory="152_equip" gearScore="52" rePackingLimitCount="3" rePackingItemConsumeCount="30">
         <sell price="9256"/>
       </property>
-      <limit recommendJobs="30" levelLimit="50" transferType="3" shopSell="1" enableBreak="1"/>
+      <!-- <limit recommendJobs="30" levelLimit="50" transferType="3" shopSell="1" enableBreak="1"/> -->
+	  <limit recommendJobs="30" levelLimit="50" transferType="5" shopSell="1" enableBreak="1"/>
       <material ui="6" attack="10"/>
       <tool itemPreset="15200028"/>
       <option constantID="15200124" randomID="15200090" optionLevel="50"/>

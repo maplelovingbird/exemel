@@ -3397,8 +3397,10 @@
 	<key id="424144807008438" npc="프레데릭" name="Hello, $MyPCName$!" />
 	<key id="424165707008439" npc="인부" name="What is it?" />
 	<key id="424165707008440" npc="인부" name="What is it?" />
-	<key id="424170807014641" feature="TreasureMap01" locale="CN" npc="나탈리" name="감정을 원하시나요?&#x0A;찾아온 $item:30001025$$pp:를,을$ 보여주시면 감정해 드릴 수 있어요.&#x0A;수고료를 받는 만큼 감정 결과는 확실하답니다." />
-	<key id="424170807014642" feature="TreasureMap01" locale="CN" npc="나탈리" name="무료 감정은 하루에 10번까지만 해드리고 있어요.&#x0A;찾아온 $item:30001025$$pp:를,을$ 보여주시면 감정해 드릴게요.&#x0A;쓸모없는 열쇠라면 고철값 정도는 드릴 수 있어요." />
+	<!-- <key id="424170807014641" feature="TreasureMap01" locale="EN" npc="나탈리" name="감정을 원하시나요?&#x0A;찾아온 $item:30001025$$pp:를,을$ 보여주시면 감정해 드릴 수 있어요.&#x0A;수고료를 받는 만큼 감정 결과는 확실하답니다." /> -->
+	<key id="424170807014641" feature="TreasureMap01" locale="KR" npc="나탈리" name="Want an appraisal:&#x0A;Show me the $item:30001025$$pp:$ you found, and I can appraise it for you.&#x0A;I charge a fee, so you can be sure of the results." />
+	<!-- <key id="424170807014642" feature="TreasureMap01" locale="EN" npc="나탈리" name="무료 감정은 하루에 10번까지만 해드리고 있어요.&#x0A;찾아온 $item:30001025$$pp:를,을$ 보여주시면 감정해 드릴게요.&#x0A;쓸모없는 열쇠라면 고철값 정도는 드릴 수 있어요." /> -->
+	<key id="424170807014642" feature="TreasureMap01" locale="KR" npc="나탈리" name="Free appraisals are limited to 10 per day.&#x0A;Show me the $item:30001025$$pp:$ you found, and I'll appraise it.&#x0A;If it's a useless key, I'll pay you scrap metal for it." />
 	<key id="425152407014643" feature="Fame_Geo01" npc="벤시" name="I have a variety of supplies!" />
 	<key id="425152407014644" feature="Fame_Geo01" npc="벤시" name="Hmm? You look familiar…" />
 	<key id="425152407014645" feature="Fame_Geo01" npc="벤시" name="Uhh…" />
@@ -22222,10 +22224,10 @@
 	<key id="1217205907005428" npc="루체" name="…?" />
 	<key id="1217205907005429" npc="미어캣 정찰대 47조" name="What brings you here?" />
 	<key id="1218095907009740" feature="TreasureMap01" locale="KR" npc="나탈리" name="What&apos;s your business?" />
-	<key id="1218095907009741" feature="TreasureMap01" locale="KR" npc="pc" name="$item:30001025$$pp:를,을$ 감정해달라고 한다." />
-	<key id="1218095907009742" feature="TreasureMap01" locale="KR" npc="pc" name="무료로 $item:30001025$$pp:를,을$ 감정해달라고 한다." />
-	<key id="1218095907009743" feature="TreasureMap01" locale="KR" npc="pc" name="할 말이 있다고 한다." />
-	<key id="1218095907009744" feature="TreasureMap01" locale="KR" npc="나탈리" name="무료 감정은 하루에 10번까지만 해드리고 있어요.&#x0A;찾아온 $item:30001025$$pp:를,을$ 보여주시면 감정해 드릴게요.&#x0A;쓸모없는 열쇠라면 고철값 정도는 드릴 수 있어요." />
+	<key id="1218095907009741" feature="TreasureMap01" locale="KR" npc="pc" name="$item:30001025$ Ask them to appraise." />
+	<key id="1218095907009742" feature="TreasureMap01" locale="KR" npc="pc" name="For free $item:30001025$ Ask them to appraise ." />
+	<key id="1218095907009743" feature="TreasureMap01" locale="KR" npc="pc" name="They say they have something to say." />
+	<key id="1218095907009744" feature="TreasureMap01" locale="KR" npc="나탈리" name="Free appraisals are limited to 10 per day.&#x0A;Show me the $item:30001025$ you found, and I'll appraise it.&#x0A;If it's a useless key, I'll pay you scrap metal for it." />
 	<key id="1219115008000482" npc="잊혀진 바야르" name="Vayar is a soulless existence… right?" />
 	<key id="1219115008000483" npc="그림자술사 데보라크" name="Keeek! The shadow&apos;s strength is getting weaker…" />
 	<key id="1219115008000484" npc="혼돈의 바포메트" name="Who is it?" />

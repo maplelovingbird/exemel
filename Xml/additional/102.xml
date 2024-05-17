@@ -16,7 +16,7 @@
 	</additional>
 	<additional id="10200032" mainType="1" skillGroupType="1">
 		<level level="1" stringParam="1">
-			<Basic durationTick="7000" resetCondition="2" maxBuffCount="10" coolDownTime="1" clearEffectFromPVPZone="1" />
+			<Basic durationTick="8000" resetCondition="2" maxBuffCount="10" coolDownTime="1" clearEffectFromPVPZone="1" />
 			<Motion abnormalImmuneBreak="5" />
 			<SpecialAbility>
 				<v type="sp_rgp" value="1" />

@@ -1158,135 +1158,150 @@
 	<key id="1156" name="홍어" />
 	<key id="1157" name="노무" />
 	<key id="1158" name="세월호" />
-	
-	
-  <key id="2135" name="周恩来" />
-  <key id="2136" name="周恩來" />
-  <key id="2137" name="周恩" />
-  <key id="2138" name="恩來" />
-  <key id="2139" name="恩来" />
-  
-  <key id="2140" name="毛泽东" />
-  <key id="2141" name="毛澤東" />
-  <key id="2142" name="毛泽" />
-  <key id="2143" name="毛澤" />
-  <key id="2144" name="澤東" />
-  <key id="2145" name="泽东" />
-  
-  <key id="2146" name="邓小平" />
-  <key id="2147" name="鄧小平" />
-  <key id="2148" name="小平" />
-  
-  <key id="2149" name="江泽民" />
-  <key id="2150" name="江澤民" />
-  <key id="2151" name="泽民" />
-  <key id="2152" name="澤民" />
-  
-  <key id="2153" name="胡锦涛" />
-  <key id="2154" name="胡錦濤" />
-  <key id="2155" name="锦涛" />
-  <key id="2156" name="錦濤" />
-  <key id="2157" name="胡锦" />
-  <key id="2158" name="胡錦" />
-  
-  <key id="2159" name="习近平" />
-  <key id="2160" name="習近平" />
-  <key id="2161" name="近平" />
-  <key id="2162" name="习近" />
-  <key id="2163" name="習近" />
-  
-  <key id="2164" name="李克强" />
-  <key id="2165" name="克强" />
-  <key id="2166" name="李克" />
-  
-  
-  <key id="2167" name="刘少奇" />
-  <key id="2168" name="劉少奇" />
-  <key id="2169" name="少奇" />
-  
-  <key id="2170" name="孙中山" />
-  <key id="2171" name="孫中山" />
-  <key id="2172" name="中山" />
-  <key id="2173" name="孙中" />
-  <key id="2174" name="孫中" />
-  
-  <key id="2175" name="蒋介石" />
-  <key id="2176" name="蔣介石" />
-  <key id="2177" name="介石" />
-  <key id="2178" name="蔣介" />
-  <key id="2179" name="蒋介" />
-  
-  <key id="2180" name="蔡英文" />
-  <key id="2181" name="蔡英" />
-  
-  <key id="2182" name="陈水扁" />
-  <key id="2183" name="陳水扁" />
-  <key id="2184" name="水扁" />
-  <key id="2185" name="陈水" />
-  <key id="2186" name="陳水" />
-  
-  <key id="2187" name="草泥马" />
-  <key id="2188" name="操你妈" />
-  <key id="2189" name="草你妈" />
-  <key id="2190" name="草你吗" />
-  <key id="2191" name="艹你嘛" />
-  <key id="2192" name="草你马" />
-  <key id="2193" name="你马" />
-  <key id="2194" name="你妈" />
-  <key id="2195" name="你吗" />
-  <key id="2196" name="曹你" />
-  <key id="2197" name="操你" />
-  <key id="2198" name="草泥娘" />
-  <key id="2199" name="操你娘" />
-  <key id="2200" name="草你娘" />
-  <key id="2201" name="草你娘" />
-  <key id="2202" name="艹你娘" />
-  <key id="2203" name="你娘" />	
-  
-  <key id="2204" name="傻逼" />
-  <key id="2205" name="台湾" />
-  <key id="2206" name="湾佬" />
-  <key id="2207" name="台独" />
-  
-  <key id="2208" name="台獨" />
-  <key id="2209" name="民進黨" />
-  <key id="2210" name="冥禁黨" />
-  <key id="2211" name="冥禁洞" />
-  <key id="2212" name="SB" />
-  <key id="2213" name="4v" />
-  <key id="2214" name="民主" />
-  <key id="2215" name="六四" />
-  <key id="2216" name="天安門" />
-  <key id="2217" name="中共" />
-  <key id="2218" name="中華民國" />
-  <key id="2219" name="ROC" />
-  <key id="2220" name="支那" />
-  <key id="2221" name="中國" />
-  <key id="2222" name="China" />
-  <key id="2223" name="九二共識" />
-  <key id="2224" name="92共識" />
-  <key id="2225" name="一邊一國" />
-  <key id="2226" name="台灣獨立" />
-  <key id="2227" name="政治" />
-  <key id="2228" name="屠殺" />
-  <key id="2229" name="一國兩制" />
-  <key id="2230" name="統一" />
-  <key id="2231" name="天皇" />
-  <key id="2232" name="皇民" />
-  <key id="2233" name="共匪" />
-  <key id="2234" name="起義" />
-  <key id="2235" name="留島不留人" />
-  <key id="2236" name="言論自由" />
-  <key id="2237" name="勞改" />
-  <key id="2238" name="集中營" />
-  <key id="2239" name="法西斯" />
-  <key id="2240" name="機掰" />
-  
-  <key id="2241" name="私服" />
-  <key id="2242" name="sf" />
-  <key id="2243" name="s服" />
-  
-  <key id="2244" name="法轮功" />
-  <key id="2245" name="法轮" />
-  <key id="2246" name="法輪宮" />
+
+
+	<key id="2135" name="周恩来" />
+	<key id="2136" name="周恩來" />
+	<key id="2137" name="周恩" />
+	<key id="2138" name="恩來" />
+	<key id="2139" name="恩来" />
+
+	<key id="2140" name="毛泽东" />
+	<key id="2141" name="毛澤東" />
+	<key id="2142" name="毛泽" />
+	<key id="2143" name="毛澤" />
+	<key id="2144" name="澤東" />
+	<key id="2145" name="泽东" />
+
+	<key id="2146" name="邓小平" />
+	<key id="2147" name="鄧小平" />
+	<key id="2148" name="小平" />
+
+	<key id="2149" name="江泽民" />
+	<key id="2150" name="江澤民" />
+	<key id="2151" name="泽民" />
+	<key id="2152" name="澤民" />
+
+	<key id="2153" name="胡锦涛" />
+	<key id="2154" name="胡錦濤" />
+	<key id="2155" name="锦涛" />
+	<key id="2156" name="錦濤" />
+	<key id="2157" name="胡锦" />
+	<key id="2158" name="胡錦" />
+
+	<key id="2159" name="习近平" />
+	<key id="2160" name="習近平" />
+	<key id="2161" name="近平" />
+	<key id="2162" name="习近" />
+	<key id="2163" name="習近" />
+
+	<key id="2164" name="李克强" />
+	<key id="2165" name="克强" />
+	<key id="2166" name="李克" />
+
+
+	<key id="2167" name="刘少奇" />
+	<key id="2168" name="劉少奇" />
+	<key id="2169" name="少奇" />
+
+	<key id="2170" name="孙中山" />
+	<key id="2171" name="孫中山" />
+	<key id="2172" name="中山" />
+	<key id="2173" name="孙中" />
+	<key id="2174" name="孫中" />
+
+	<key id="2175" name="蒋介石" />
+	<key id="2176" name="蔣介石" />
+	<key id="2177" name="介石" />
+	<key id="2178" name="蔣介" />
+	<key id="2179" name="蒋介" />
+
+	<key id="2180" name="蔡英文" />
+	<key id="2181" name="蔡英" />
+
+	<key id="2182" name="陈水扁" />
+	<key id="2183" name="陳水扁" />
+	<key id="2184" name="水扁" />
+	<key id="2185" name="陈水" />
+	<key id="2186" name="陳水" />
+
+	<key id="2187" name="草泥马" />
+	<key id="2188" name="操你妈" />
+	<key id="2189" name="草你妈" />
+	<key id="2190" name="草你吗" />
+	<key id="2191" name="艹你嘛" />
+	<key id="2192" name="草你马" />
+	<key id="2193" name="你马" />
+	<key id="2194" name="你妈" />
+	<key id="2195" name="你吗" />
+	<key id="2196" name="曹你" />
+	<key id="2197" name="操你" />
+	<key id="2198" name="草泥娘" />
+	<key id="2199" name="操你娘" />
+	<key id="2200" name="草你娘" />
+	<key id="2201" name="草你娘" />
+	<key id="2202" name="艹你娘" />
+	<key id="2203" name="你娘" />
+
+	<key id="2204" name="傻逼" />
+	<key id="2205" name="台湾" />
+	<key id="2206" name="湾佬" />
+	<key id="2207" name="台独" />
+
+	<key id="2208" name="台獨" />
+	<key id="2209" name="民進黨" />
+	<key id="2210" name="冥禁黨" />
+	<key id="2211" name="冥禁洞" />
+	<key id="2212" name="SB" />
+	<key id="2213" name="4v" />
+	<key id="2214" name="民主" />
+	<key id="2215" name="六四" />
+	<key id="2216" name="天安門" />
+	<key id="2217" name="中共" />
+	<key id="2218" name="中華民國" />
+	<key id="2219" name="ROC" />
+	<key id="2220" name="支那" />
+	<key id="2221" name="中國" />
+	<key id="2222" name="China" />
+	<key id="2223" name="九二共識" />
+	<key id="2224" name="92共識" />
+	<key id="2225" name="一邊一國" />
+	<key id="2226" name="台灣獨立" />
+	<key id="2227" name="政治" />
+	<key id="2228" name="屠殺" />
+	<key id="2229" name="一國兩制" />
+	<key id="2230" name="統一" />
+	<key id="2231" name="天皇" />
+	<key id="2232" name="皇民" />
+	<key id="2233" name="共匪" />
+	<key id="2234" name="起義" />
+	<key id="2235" name="留島不留人" />
+	<key id="2236" name="言論自由" />
+	<key id="2237" name="勞改" />
+	<key id="2238" name="集中營" />
+	<key id="2239" name="法西斯" />
+	<key id="2240" name="機掰" />
+
+	<key id="2241" name="私服" />
+	<key id="2242" name="sf" />
+	<key id="2243" name="s服" />
+
+	<key id="2244" name="法轮功" />
+	<key id="2245" name="法轮" />
+	<key id="2246" name="法輪宮" />
+
+
+	<key id="2247" name="慰安妇" />
+	<key id="2248" name="妈逼" />
+	<key id="2249" name="鸡巴" />
+	<key id="2250" name="阴茎" />
+	<key id="2251" name="生殖器" />
+	<key id="2252" name="操你" />
+	<key id="2253" name="射精" />
+	<key id="2254" name="婊子" />
+	<key id="2255" name="慰安婦" />
+	<key id="2256" name="白癡" />
+	<key id="2257" name="媽逼" />
+	<key id="2258" name="雞巴" />
+	<key id="2259" name="陰莖" />
 </ms2>

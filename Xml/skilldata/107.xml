@@ -3389,6 +3389,7 @@
 			</motion>
 		</level>
 	</skill>
+	<!-- 刀飞 - 飞燕脚 -->
 	<skill id="10700051" comment="시프">
 		<basic mainType="2">
 			<ui icon="./Data/Resource/Image/skill/icon/10700051.png" attackType="1" />
@@ -4060,6 +4061,7 @@
 			</motion>
 		</level>
 	</skill>
+	<!-- 刀飞 - 突袭 -->
 	<skill id="10700091" comment="시프">
 		<basic mainType="2">
 			<ui icon="./Data/Resource/Image/skill/icon/10700091.png" attackType="1" />

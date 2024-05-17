@@ -81,8 +81,8 @@
   <key id="10100041" name="发出鼓舞士气的呐喊，提高施展者及周围队员的物理/魔法攻击力。&#xD;&#xA;&#xD;&#xA;&lt;font color='#ffd400'&gt;[详细说明]&lt;/font&gt;&#xD;&#xA;&lt;font color='#00aaef'&gt;{0}名&lt;/font&gt;队员在20秒内物理/魔法攻击力提高&lt;font color='#00aaef'&gt;{1}%&lt;/font&gt;" />
   <key id="10100051" name="使用盾牌，向周围释放神圣气息，提高施展者及周围队员的物理/魔法抵抗力。\n\n&lt;font color='#ffd400'&gt;[详细说明]&lt;/font&gt;\n10名队员的物理/魔法抵抗力增加&lt;font color='#00aaef'&gt;{0}&lt;/font&gt;，持续10秒" />
   <key id="10100052" feature="Develop" />
-  <key id="10100061" name="骑士团专有的特殊战斗姿势，进入专注于防御的状态。&#xA;&#xA;&lt;font color='#ffd400'&gt;[详细说明]&lt;/font&gt;&#xA;每隔0.3秒，能量恢复4&#xA;敌人造成的伤害减少10%&#xA;物理/魔法攻击力增加10%" />
-  <key id="10100062" name="骑士团专有的特殊战斗姿势，进入专注于防御的状态。&#xA;&#xA;&lt;font color='#ffd400'&gt;[详细说明]&lt;/font&gt;&#xA;每隔0.3秒，能量恢复4&#xA;敌人造成的伤害减少10%&#xA;物理/魔法攻击力增加10%" />
+  <key id="10100061" name="骑士团专有的特殊战斗姿势，进入专注于防御的状态。&#xA;&#xA;&lt;font color='#ffd400'&gt;[详细说明]&lt;/font&gt;&#xA;每隔0.3秒，能量恢复4&#xA;敌人造成的伤害减少5%&#xA;物理/魔法攻击力增加10%" />
+  <key id="10100062" name="骑士团专有的特殊战斗姿势，进入专注于防御的状态。&#xA;&#xA;&lt;font color='#ffd400'&gt;[详细说明]&lt;/font&gt;&#xA;每隔0.3秒，能量恢复4&#xA;敌人造成的伤害减少5%&#xA;物理/魔法攻击力增加10%" />
   <key id="10100071" name="将盾牌朝前方投出，盾牌返回同时造成伤害。&#xA;&#xA;&lt;font color='#ffd400'&gt;[详细说明]&lt;/font&gt;&#xA;命中时，造成&lt;font color='#00aaef'&gt;{0}%&lt;/font&gt;伤害&#xA;&#xA;&lt;font color='#ffd400'&gt;[追加效果]&lt;/font&gt;&#xA;12秒内，命中对象防御力降低&lt;font color='#00aaef'&gt;{1}%&lt;/font&gt;\n无法与旋风盾的效果重叠" />
   <key id="10100081" name="用盾牌捶打地面，之后流泻出神圣的气息，生成防御膜，保护施展者和队员。&#xD;&#xA;&#xD;&#xA;&lt;font color='#ffd400'&gt;[详细说明]&lt;/font&gt;&#xD;&#xA;3秒内，保护&lt;font color='#00aaef'&gt;{0}个&lt;/font&gt;队员&#xD;&#xA;防御膜仅在姿势维持期间提供保护&#xD;&#xA;无法抵挡部分强力攻击" />
   <key id="10100082" feature="Develop" />

@@ -355,11 +355,22 @@
 		</level>
 	</additional>
 	<additional id="10100061" mainType="1" skillGroupType="1">
-		<level level="1" stringParam="0.3,4,10,10">
+		<!-- <level level="1" stringParam="0.3,4,10,10">
 			<Basic keepCondition="99" logoutClearEffect="1" doNotClearEffectFromEnterPVPZone="1" />
 			<SpecialAbility>
 				<v type="defensive_physicaldamage" value="100" />
 				<v type="defensive_magicaldamage" value="100" />
+				<v type="papRate" value="100" />
+				<v type="mapRate" value="100" />
+				<v type="sp_rgp" value="4" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10100061_buff.png" />
+		</level> -->
+		<level level="1" stringParam="0.3,4,10,5">
+			<Basic keepCondition="99" logoutClearEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<SpecialAbility>
+				<v type="defensive_physicaldamage" value="50" />
+				<v type="defensive_magicaldamage" value="50" />
 				<v type="papRate" value="100" />
 				<v type="mapRate" value="100" />
 				<v type="sp_rgp" value="4" />
