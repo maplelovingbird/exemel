@@ -5677,7 +5677,8 @@
   <key id="s_skill_compact_control_default_tabname" value="组合键" />
   <key id="s_skill_level_max" value="最高" />
   <!-- Maplestory Title Name -->
-  <key id="s_window_title_name" value="冒险岛2 - 觉醒公测" />
+  <!-- <key id="s_window_title_name" value="冒险岛2 - 觉醒公测" /> -->
+  <key id="s_window_title_name" value="MapleAge2" />
   <key id="s_smartpush_active" value="现在开始可以使用{0}功能。" />
   <key id="s_smartpush_autofishing" value="自动钓鱼" />
   <key id="s_smartpush_autofishing_active" value="自动钓鱼中" />

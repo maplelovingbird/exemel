@@ -503,7 +503,7 @@
 	<npc id="21400036">
 		<environment feature="Season3" npcAttackGroup="1" npcDefenseGroup="2" minimapIconName="elite_boss" nametag="1" hpBar="1" defenceMaterial="1" hitImmune="99" abnormalImmune="99" level="50" rankIcon="c" propertyTags="keep_battle" raceString="mystic" gender="2" portrait="./Data/Resource/Image/Portrait/Mob/22000036_N_DragonDevilBigHeadRed_P.png" damagedColorScale="4" damagedVibrateDuration="0.5" damagedVibrateAmp="1" regenEffect="BG/Common/Eff_Test_Regen.xml" customExp="0" lookAtMyPCWhenTalking="0">
 			<model kfm="22000036_N_DragonDevilBigHeadRed" scale="1.2" shadowScale="360" rotationSpeed="720" walkSpeed="250" runSpeed="500" />
-			<stat hp="352007" asp="100" msp="100" atp="80" evp="109" cap="62" cad="500" car="50" ndd="690" pap="504426" map="504499" />
+			<stat hp="1552007" asp="100" msp="100" atp="80" evp="109" cap="62" cad="500" car="50" ndd="690" pap="504426" map="504499" />
 			<distance avoid="140" sight="5000" sightHeightUP="3000" sightHeightDown="500" customLastSightRadius="5500" customLastSightHeightUp="3000" customLastSightHeightDown="500" />
 			<skill ids="50100500" levels="1" />
 			<collision shape="box" width="150" height="230" depth="230" />

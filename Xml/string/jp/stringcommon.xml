@@ -5745,7 +5745,8 @@
   <key id="s_skill_compact_control_default_tabname" value="コンパクトキー" />
   <key id="s_skill_level_max" value="max" />
   <!-- Maplestory Title Name -->
-  <key id="s_window_title_name" value="MapleStory2 - A New Beginning" />
+  <!-- <key id="s_window_title_name" value="MapleStory2 - A New Beginning" /> -->
+  <key id="s_window_title_name" value="MapleAge2" />
   <key id="s_smartpush_active" value="今から{0}機能を使用することができます。" />
   <key id="s_smartpush_autofishing" value="自動釣り" />
   <key id="s_smartpush_autofishing_active" value="自動釣り中" />

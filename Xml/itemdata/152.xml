@@ -549,7 +549,7 @@
   </item>
   <item id="15200050">
     <environment>
-      <property type="1" subtype="52" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15200007.png" category="BH" blackMarketCategory="152_equip" gearScore="48">
+      <property type="1" subtype="52" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15200007.png" category="BH" blackMarketCategory="152_equip" gearScore="48" rePackingLimitCount="3" rePackingItemConsumeCount="20" globalRePackingItemConsumeCount="3">
         <sell price="4299,5374,6878,8598,10533,12682"/>
       </property>
       <limit recommendJobs="30" levelLimit="48" shopSell="1" enableBreak="1"/>
@@ -560,7 +560,7 @@
   </item>
   <item id="15200051">
     <environment>
-      <property type="1" subtype="52" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15200008.png" category="BH" blackMarketCategory="152_equip" gearScore="50" rePackingLimitCount="3" rePackingItemConsumeCount="75" globalRePackingItemConsumeCount="0">
+      <property type="1" subtype="52" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15200008.png" category="BH" blackMarketCategory="152_equip" gearScore="50" rePackingLimitCount="3" rePackingItemConsumeCount="20" globalRePackingItemConsumeCount="3">
         <sell price="4628,5785,7405,9256,11339,13653"/>
       </property>
       <limit recommendJobs="30" levelLimit="50" shopSell="1" enableBreak="1"/>
@@ -692,7 +692,7 @@
   </item>
   <item id="15200063">
     <environment>
-      <property type="1" subtype="52" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15200060.png" category="BH" blackMarketCategory="152_equip" gearScore="48">
+      <property type="1" subtype="52" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15200060.png" category="BH" blackMarketCategory="152_equip" gearScore="48" rePackingLimitCount="3" rePackingItemConsumeCount="20" globalRePackingItemConsumeCount="3">
         <sell price="4299,5374,6878,8598,10533,12682"/>
       </property>
       <limit recommendJobs="30" levelLimit="48" shopSell="1" enableBreak="1"/>
@@ -703,7 +703,7 @@
   </item>
   <item id="15200064">
     <environment>
-      <property type="1" subtype="52" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15200061.png" category="BH" blackMarketCategory="152_equip" gearScore="50" rePackingLimitCount="3" rePackingItemConsumeCount="75" globalRePackingItemConsumeCount="0">
+      <property type="1" subtype="52" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15200061.png" category="BH" blackMarketCategory="152_equip" gearScore="50" rePackingLimitCount="3" rePackingItemConsumeCount="20" globalRePackingItemConsumeCount="3">
         <sell price="4628,5785,7405,9256,11339,13653"/>
       </property>
       <limit recommendJobs="30" levelLimit="50" shopSell="1" enableBreak="1"/>
@@ -1282,11 +1282,11 @@
   <item id="15200124">
     <environment>
       <!-- <property rank="4" type="1" subtype="52" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15200028.png" category="BH" blackMarketCategory="152_equip" remakeDisable="true" gearScore="52" rePackingLimitCount="3" rePackingItemConsumeCount="30"> -->
-	  <property rank="4" type="1" subtype="52" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15200028.png" category="BH" blackMarketCategory="152_equip" gearScore="52" rePackingLimitCount="3" rePackingItemConsumeCount="30">
+      <property rank="4" type="1" subtype="52" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15200028.png" category="BH" blackMarketCategory="152_equip" gearScore="52" rePackingLimitCount="3" rePackingItemConsumeCount="30">
         <sell price="9256"/>
       </property>
       <!-- <limit recommendJobs="30" levelLimit="50" transferType="3" shopSell="1" enableBreak="1"/> -->
-	  <limit recommendJobs="30" levelLimit="50" transferType="5" shopSell="1" enableBreak="1"/>
+      <limit recommendJobs="30" levelLimit="50" transferType="5" shopSell="1" enableBreak="1"/>
       <material ui="6" attack="10"/>
       <tool itemPreset="15200028"/>
       <option constantID="15200124" randomID="15200090" optionLevel="50"/>

@@ -5067,7 +5067,8 @@
 	<key id="s_skill_compact_control_same_tabname" value="같은 이름으로는 변경할 수 없습니다." />
 	<key id="s_skill_compact_control_default_tabname" value="콤팩트 키" />
 	<key id="s_skill_level_max" value="max" />
-	<key id="s_window_title_name" value="MapleStory2 - A New Beginning" />
+	<!-- <key id="s_window_title_name" value="MapleStory2 - A New Beginning" /> -->
+	<key id="s_window_title_name" value="MapleAge2" />
 	<key id="s_smartpush_active" value="지금부터 {0} 기능을 사용할 수 있습니다." />
 	<key id="s_smartpush_autofishing" value="자동 낚시" />
 	<key id="s_smartpush_autofishing_active" value="자동 낚시 중" />

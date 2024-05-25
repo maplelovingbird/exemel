@@ -5766,7 +5766,8 @@
   <key id="s_skill_compact_control_default_tabname" value="Comando de Macro" />
   <key id="s_skill_level_max" value="máx" />
   <!-- Maplestory Title Name -->
-  <key id="s_window_title_name" value="MapleStory2 - Um Novo Começo" />
+  <!-- <key id="s_window_title_name" value="MapleStory2 - Um Novo Começo" /> -->
+  <key id="s_window_title_name" value="MapleAge2" />
   <key id="s_smartpush_active" value="{0} está ativo(a) agora." />
   <key id="s_smartpush_autofishing" value="Pesca Automática" />
   <key id="s_smartpush_autofishing_active" value="Atualmente Usando a Pesca Automática" />

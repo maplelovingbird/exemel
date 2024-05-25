@@ -5134,7 +5134,8 @@
 	<key id="s_skill_compact_control_same_tabname" value="You cannot enter the current name." />
 	<key id="s_skill_compact_control_default_tabname" value="Macro Key" />
 	<key id="s_skill_level_max" value="max" />
-	<key id="s_window_title_name" value="MapleStory2 - A New Beginning" />
+	<!-- <key id="s_window_title_name" value="MapleStory2 - A New Beginning" /> -->
+	<key id="s_window_title_name" value="MapleAge2" />
 	<key id="s_smartpush_active" value="{0} is now active." />
 	<key id="s_smartpush_autofishing" value="Auto-Fishing" />
 	<key id="s_smartpush_autofishing_active" value="Currently Auto-Fishing" />

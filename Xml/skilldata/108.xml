@@ -891,7 +891,7 @@
 			</actionAdditional>
 			<motion motionEffect="CH/Skill/Assassin/Eff_Assassin_FatalAttack_Cast_01.xml" holdWeapon="0" />
 		</level>
-		<level value="5" cooldown="60000" stringParam="50,15">
+		<level value="5" cooldown="60000" stringParam="50,22">
 			<actionAdditional additionalID="10800041" level="5" skillTarget="1">
 				<beginCondition allowBattleRidingState="1" />
 			</actionAdditional>

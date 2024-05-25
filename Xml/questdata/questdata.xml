@@ -58108,8 +58108,8 @@
 		<condition type="quest" code="91000016" />
 	</quest>
 	<quest id="91000013" feature="FameContents">
-		<basic chapterID="10005" standardLevel="55" disableGiveup="1" alliance="mapleunion" useReEntryHiddenMap="1" />
-		<require level="55" quest="91000010" />
+		<basic chapterID="10005" standardLevel="61" disableGiveup="1" alliance="mapleunion" useReEntryHiddenMap="1" />
+		<require level="61" quest="91000010" />
 		<dispatch type="directComplete" field="2000422" portal="2" />
 		<start npc="11003585" />
 		<complete npc="11003682" />

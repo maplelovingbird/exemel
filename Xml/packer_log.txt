@@ -2,8 +2,8 @@
 
 국가별 중복: ./data/xml/table/attendgiftdata.xml
 
-Packed [./Data/Xml/] [7.235 sec]
+Packed [./Data/Xml/] [8.756 sec]
 
-All Packed [7.235]
+All Packed [8.756]
 
 --- End Packing ---

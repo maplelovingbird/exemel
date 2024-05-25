@@ -7653,20 +7653,20 @@
 				<attack point="p0" targetCount="50" attacktype="2" brokenOffence="2" brokenForce="3" unrideOnHit="1" compulsionType="3">
 					<range rangeType="cylinder" distance="2000" height="350" applyTarget="1" castTarget="1" />
 					<arrow nonTarget="1" />
-					<damage rate="1" effectRemain="NPC/Skill/Balrog/Eff_Balrog_HPRecover_Absorb_Hit.xml" damageByTargetMaxHP="0.3" attackMaterial="1" />
+					<damage rate="1.3" effectRemain="NPC/Skill/Balrog/Eff_Balrog_HPRecover_Absorb_Hit.xml" damageByTargetMaxHP="0.3" attackMaterial="1" />
 					<actionAdditional additionalID="50000351" level="1" skillTarget="1" skillOwner="1" />
 				</attack>
 				<attack point="p1" targetCount="50" attacktype="2" brokenOffence="2" brokenForce="3" unrideOnHit="1" compulsionType="3">
 					<range rangeType="cylinder" distance="2000" height="350" applyTarget="1" castTarget="1" />
 					<arrow nonTarget="1" />
-					<damage rate="1" effectRemain="NPC/Skill/Balrog/Eff_Balrog_HPRecover_Absorb_Hit.xml" damageByTargetMaxHP="0.35" attackMaterial="1" />
+					<damage rate="1.3" effectRemain="NPC/Skill/Balrog/Eff_Balrog_HPRecover_Absorb_Hit.xml" damageByTargetMaxHP="0.35" attackMaterial="1" />
 					<actionAdditional additionalID="50000351" level="1" skillTarget="1" skillOwner="1" />
 					<actionAdditional additionalID="50000009" level="1" skillTarget="2" skillOwner="1" />
 				</attack>
 				<attack point="p2" targetCount="50" attacktype="2" brokenOffence="2" brokenForce="3" unrideOnHit="1" compulsionType="3">
 					<range rangeType="cylinder" distance="2000" height="350" applyTarget="1" castTarget="1" />
 					<arrow nonTarget="1" />
-					<damage rate="1" effectRemain="NPC/Skill/Balrog/Eff_Balrog_HPRecover_Absorb_Hit.xml" damageByTargetMaxHP="0.4" attackMaterial="1" />
+					<damage rate="1.3" effectRemain="NPC/Skill/Balrog/Eff_Balrog_HPRecover_Absorb_Hit.xml" damageByTargetMaxHP="0.4" attackMaterial="1" />
 					<actionAdditional additionalID="50000351" level="1" skillTarget="1" skillOwner="1" />
 				</attack>
 			</motion>

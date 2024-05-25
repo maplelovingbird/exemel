@@ -463,7 +463,7 @@
   </item>
   <item id="14000042">
     <environment>
-      <property type="1" subtype="40" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/14000007.png" category="LH" blackMarketCategory="140_equip" gearScore="48">
+      <property type="1" subtype="40" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/14000007.png" category="LH" blackMarketCategory="140_equip" gearScore="48" rePackingLimitCount="3" rePackingItemConsumeCount="20" globalRePackingItemConsumeCount="3">
         <sell price="4299,5374,6878,8598,10533,12682"/>
       </property>
       <limit recommendJobs="40" levelLimit="48" shopSell="1" enableBreak="1"/>
@@ -474,7 +474,7 @@
   </item>
   <item id="14000043">
     <environment>
-      <property type="1" subtype="40" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/14000008.png" category="LH" blackMarketCategory="140_equip" gearScore="50" rePackingLimitCount="3" rePackingItemConsumeCount="75" globalRePackingItemConsumeCount="0">
+      <property type="1" subtype="40" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/14000008.png" category="LH" blackMarketCategory="140_equip" gearScore="50" rePackingLimitCount="3" rePackingItemConsumeCount="20" globalRePackingItemConsumeCount="3">
         <sell price="4628,5785,7405,9256,11339,13653"/>
       </property>
       <limit recommendJobs="40" levelLimit="50" shopSell="1" enableBreak="1"/>
@@ -606,7 +606,7 @@
   </item>
   <item id="14000055">
     <environment>
-      <property type="1" subtype="40" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/14000052.png" category="LH" blackMarketCategory="140_equip" gearScore="48">
+      <property type="1" subtype="40" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/14000052.png" category="LH" blackMarketCategory="140_equip" gearScore="48" rePackingLimitCount="3" rePackingItemConsumeCount="20" globalRePackingItemConsumeCount="3">
         <sell price="4299,5374,6878,8598,10533,12682"/>
       </property>
       <limit recommendJobs="40" levelLimit="48" shopSell="1" enableBreak="1"/>
@@ -617,7 +617,7 @@
   </item>
   <item id="14000056">
     <environment>
-      <property type="1" subtype="40" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/14000053.png" category="LH" blackMarketCategory="140_equip" gearScore="50" rePackingLimitCount="3" rePackingItemConsumeCount="75" globalRePackingItemConsumeCount="0">
+      <property type="1" subtype="40" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/14000053.png" category="LH" blackMarketCategory="140_equip" gearScore="50" rePackingLimitCount="3" rePackingItemConsumeCount="20" globalRePackingItemConsumeCount="3">
         <sell price="4628,5785,7405,9256,11339,13653"/>
       </property>
       <limit recommendJobs="40" levelLimit="50" shopSell="1" enableBreak="1"/>

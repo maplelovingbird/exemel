@@ -15869,7 +15869,7 @@
 	<item id="20302907">
 		<environment>
 			<property rank="4" type="25" iconCode="23" itemGroup="2" slotMax="999" slotIcon="20300158" category="Package" blackMarketCategory="23" doNotPreview="1" />
-			<life expirationPeriod="2021-05-31-23-59-59" />
+			<!-- <life expirationPeriod="2021-05-31-23-59-59" /> -->
 			<limit transferType="1" />
 			<function name="OpenItemBox" param1="340000654" />
 		</environment>

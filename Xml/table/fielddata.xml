@@ -6735,7 +6735,7 @@
 	<fieldData id="3000002">
 		<environment feature="Season3">
 			<xblock name="03000002_TW" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000002" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000002" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="48" param="5" />
@@ -6794,7 +6794,7 @@
 	<fieldData id="3000013">
 		<environment feature="Season3">
 			<xblock name="03000013_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000013" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000013" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="48" param="5" />
@@ -6813,7 +6813,7 @@
 	<fieldData id="3000015">
 		<environment feature="Season3">
 			<xblock name="03000015_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000015" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000015" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="48" param="5" />
@@ -6823,7 +6823,7 @@
 	<fieldData id="3000017">
 		<environment>
 			<xblock name="03000017_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000017" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000017" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="48" param="5" />
@@ -6834,7 +6834,7 @@
 	<fieldData id="3000021">
 		<environment feature="Season3">
 			<xblock name="03000021_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000021" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000021" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="48" param="5" />
@@ -6863,7 +6863,7 @@
 	<fieldData id="3000036">
 		<environment feature="Season3">
 			<xblock name="03000036_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000036" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000036" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="52" param="5" />
@@ -6873,7 +6873,7 @@
 	<fieldData id="3000038">
 		<environment feature="Season3">
 			<xblock name="03000038_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000038" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000038" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="52" param="5" />
@@ -6883,7 +6883,7 @@
 	<fieldData id="3000039">
 		<environment feature="Season3">
 			<xblock name="03000039_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000039" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000039" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="52" param="5" boss="34" bossParam="5" />
@@ -6906,7 +6906,7 @@
 	<fieldData id="3000045">
 		<environment feature="Season3">
 			<xblock name="03000045_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000045" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000045" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="52" param="5" />
@@ -6916,7 +6916,7 @@
 	<fieldData id="3000046">
 		<environment feature="Season3">
 			<xblock name="03000046_AD" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000046" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000046" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="52" param="5" boss="23" bossParam="5" />
@@ -6931,7 +6931,7 @@
 	<fieldData id="3000054">
 		<environment>
 			<xblock name="03000054_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000054" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000054" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="48" param="5" boss="34" bossParam="5" />
@@ -6941,7 +6941,7 @@
 	<fieldData id="3000056">
 		<environment feature="Season3">
 			<xblock name="03000056_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000056" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000056" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="48" param="5" boss="23" bossParam="5" />
@@ -6960,7 +6960,7 @@
 	<fieldData id="3000058">
 		<environment>
 			<xblock name="03000058_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000058" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000058" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="52" param="5" />
@@ -6989,7 +6989,7 @@
 	<fieldData id="3000062">
 		<environment feature="Season3">
 			<xblock name="03000062_TW" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000062" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000062" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="48" param="5" />
@@ -7010,7 +7010,7 @@
 	<fieldData id="3000076">
 		<environment>
 			<xblock name="03000076_TW" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000076" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000076" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="48" param="5" />
@@ -7021,7 +7021,7 @@
 	<fieldData id="3000083">
 		<environment>
 			<xblock name="03000083_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000083" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000083" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="52" param="5" boss="34" bossParam="5" />
@@ -7031,7 +7031,7 @@
 	<fieldData id="3000084">
 		<environment>
 			<xblock name="03000084_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000084" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000084" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="52" param="5" boss="23" bossParam="5" />
@@ -7041,7 +7041,7 @@
 	<fieldData id="3000085">
 		<environment>
 			<xblock name="03000085_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000085" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000085" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="48" param="5" boss="34" bossParam="5" />
@@ -7051,7 +7051,7 @@
 	<fieldData id="3000086">
 		<environment>
 			<xblock name="03000086_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000086" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000086" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="52" param="5" />
@@ -7061,7 +7061,7 @@
 	<fieldData id="3000087">
 		<environment feature="Season3">
 			<xblock name="03000087_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000087" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000087" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="48" param="5" />
@@ -7071,7 +7071,7 @@
 	<fieldData id="3000088">
 		<environment feature="Season3">
 			<xblock name="03000088_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000088" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000088" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="48" param="5" boss="23" bossParam="5" />
@@ -7099,7 +7099,7 @@
 	<fieldData id="3000091">
 		<environment feature="Season3">
 			<xblock name="03000091_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000091" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000091" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="52" param="5" />
@@ -7141,7 +7141,7 @@
 	<fieldData id="3000104">
 		<environment>
 			<xblock name="03000104_TW" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000104" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000104" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="48" param="5" />
@@ -7152,7 +7152,7 @@
 	<fieldData id="3000110">
 		<environment>
 			<xblock name="03000110_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000110" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000110" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="52" param="5" />
@@ -7162,7 +7162,7 @@
 	<fieldData id="3000111">
 		<environment>
 			<xblock name="03000111_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000111" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000111" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="52" param="5" />
@@ -7174,7 +7174,7 @@
 	<fieldData id="3000114">
 		<environment feature="Season3">
 			<xblock name="03000114_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000114" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000114" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="48" param="5" boss="34" bossParam="5" />
@@ -7252,7 +7252,7 @@
 	<fieldData id="3000137">
 		<environment>
 			<xblock name="03000137_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000137" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000137" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="52" param="5" />
@@ -7290,7 +7290,7 @@
 	<fieldData id="3000147">
 		<environment feature="Season3">
 			<xblock name="03000147_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000147" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000147" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="52" param="5" />
@@ -7343,7 +7343,7 @@
 	<fieldData id="3000203">
 		<environment>
 			<xblock name="03000203_BF" />
-			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000203" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="51" enterMaxLevel="99" />
+			<property continentCode="202" regionCode="100" mapType="7" revivalreturnid="3000203" homeReturnable="0" capacity="100" checkFly="1" channelGroupID="4" mapSearch="0" exploreType="1" enterMinLevel="60" enterMaxLevel="99" />
 			<drop maplevel="55" />
 			<cashCall cashTaxiNotDeparture="1" cashTaxiNotDestination="1" RecallOtherUserProhibit="1" />
 			<bgm id="52" param="5" />

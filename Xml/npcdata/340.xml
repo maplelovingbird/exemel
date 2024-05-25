@@ -301,7 +301,7 @@
 	<npc id="34000110">
 		<environment feature="GuildRaid01" npcAttackGroup="1" npcDefenseGroup="2" minimap="0" defenceMaterial="1" hitImmune="99" abnormalImmune="99" level="99" rankIcon="c" carePathToEnemy="1" propertyTags="hide_hpbar_level" raceString="mystic" gender="2" portrait="./Data/Resource/Image/Portrait/Mob/Dummy_P.png" damagedColorScale="6" damagedVibrateDuration="0.8" damagedVibrateAmp="1" regenEffect="BG/Common/Eff_Test_Regen.xml" customExp="0" lookAtMyPCWhenTalking="0">
 			<model kfm="Dummy" shadowScale="120" rotationSpeed="720" />
-			<stat hp="3" asp="100" msp="100" atp="80" evp="174" cap="87" cad="500" car="99" ndd="2086" pap="465320" map="465454" />
+			<stat hp="3" asp="100" msp="100" atp="80" evp="80" cap="87" cad="500" car="99" ndd="2086" pap="465320" map="465454" />
 			<distance avoid="50" sightHeightUP="0" sightHeightDown="0" />
 			<additionalEffect rewardCodes="71000012,71000022" rewardLevels="1,1" />
 			<collision shape="box" width="50" height="100" depth="50" />
